@@ -3,12 +3,9 @@
 from football_stats.data.database_manager import DatabaseManager
 
 test_db_manager = DatabaseManager()
-print('test_db_manager.input_directory:')
-print(test_db_manager.input_dir)
-print('test_db_manager.output_directory:')
-print(test_db_manager.output_dir)
-print('test_db_manager.csv_manager.input_folder:')
-print(test_db_manager.csv_manager.folder)
-print('test_db_manager.csv_manager.output_folder:')
-print(test_db_manager.csv_manager.output_folder)
+print('input_dir:', test_db_manager.input_dir)
+print('reduced_dir:', test_db_manager.reduced_dir)
+print('full_dir:', test_db_manager.full_dir)
+
+
 

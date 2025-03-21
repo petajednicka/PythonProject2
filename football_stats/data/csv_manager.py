@@ -81,6 +81,24 @@ class CSVManager:
         """Vrátí seznam cest k souborům ve složce jako `Path` objekty."""
         return [file for file in self.folder.glob("*.csv")]
 
+    def load_csv(self, filename: str) -> pd.DataFrame:
+        """
+        Načte CSV soubor jako DataFrame.
+        """
+        file_path = Path('database') / filename
+        if not file_path.exists():
+            raise FileNotFoundError(f"Soubor {file_path} neexistuje.")
+
+        df = pd.read_csv(file_path)
+
+        # Úklid typických problémů – strip, odstranění whitespace
+        df.columns = df.columns.str.strip()
+
+        # Pokud chceš volat rovnou úpravu:
+        # df = self.df_adjustment(df)
+
+        return df
+
     def create_reduced_csv_files(self, folder: str = 'Data_from_Trefik', output_folder: str = 'Data_reduced') -> None:
         """Načte CSV soubory, provede úpravy a uloží redukované verze do `Data_reduced`."""
 
