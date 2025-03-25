@@ -99,12 +99,20 @@ class CSVManager:
 
         return df
 
-    def create_reduced_csv_files(self, folder: str = 'Data_from_Trefik', output_folder: str = 'Data_reduced') -> None:
+    def create_reduced_csv_files(self, folder: str = 'Data_from_Trefik', output_folder: str = 'Data_reduced',
+                                     filenames: list[str] = None) -> None:
+
         """Načte CSV soubory, provede úpravy a uloží redukované verze do `Data_reduced`."""
 
         self.folder = Path(folder)
         self.output_folder = Path(output_folder)
-        self.output_folder.mkdir(exist_ok=True)  # Vytvoří složku, pokud neexistuje
+        self.output_folder.mkdir(exist_ok=True)
+
+        # ⬇️ Nově: filtrujeme jen vybrané soubory, pokud jsou zadány
+        if filenames:
+            files = [self.folder / fname for fname in filenames]
+        else:
+            files = list(self.folder.glob("*.csv"))
 
         for file_path in self.list_csv_files():  # Iterujeme přes všechny CSV soubory
             try:
@@ -125,10 +133,15 @@ class CSVManager:
             except Exception as e:
                 print(f"Chyba při zpracování souboru {file_path.name}: {e}")
 
-    def create_noreduced_csv_files(self, folder:str='Data_from_Trefik', output_folder:str='database'):
+    def create_noreduced_csv_files(self, folder:str='Data_from_Trefik', output_folder:str='database',filenames: list[str] = None):
         self.folder = Path(folder)
         self.output_folder = Path(output_folder)
         self.output_folder.mkdir(exist_ok=True) # Vytvoříme složku pro výstupní soubory
+        # ⬇️ Nově: filtrujeme jen vybrané soubory, pokud jsou zadány
+        if filenames:
+            files = [self.folder / fname for fname in filenames]
+        else:
+            files = list(self.folder.glob("*.csv"))
 
         for file_path in self.list_csv_files():
             try:

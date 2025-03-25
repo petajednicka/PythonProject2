@@ -13,7 +13,7 @@ class TestCSVManagerModifications(unittest.TestCase):
     def setUp(self):
         # Vytvoření dočasných adresářů pro vstup a výstup
         self.test_dir = tempfile.mkdtemp()
-        self.input_dir = os.path.join(self.test_dir, "Data_from_Trefik")
+        self.input_dir = os.path.join(self.test_dir, "Data_from_Trefik/DilciDb")
         self.output_dir = os.path.join(self.test_dir, "Data_reduced")
         os.makedirs(self.input_dir, exist_ok=True)
 
