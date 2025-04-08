@@ -56,9 +56,8 @@ def df_adjustment(df: pd.DataFrame) -> pd.DataFrame:
     for col in ['home_score', 'away_score']:
         if col in df.columns:
             df[col] = df[col].astype(str).str.strip()  # 🔹 Odstranění mezer kolem čísel
-            df[col] = pd.to_numeric(df[col], errors='coerce')  # 🔹 Převod na čísla (NaN pokud chyba)
-            df[col] = df[col].fillna(0).round().astype(
-                int)  # 🔹 Nahrazení NaN nulou, zaokrouhlení a převod na `int`
+            df[col] = pd.to_numeric(df[col], errors='coerce')  # ponechává NaN
+            # Nepřevádíme na int, aby se zachovalo NaN (float typ)
 
     odds_columns = ['odds_home', 'odds_draw', 'odds_away']
     for col in odds_columns:

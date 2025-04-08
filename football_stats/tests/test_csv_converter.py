@@ -10,8 +10,8 @@ def main():
         seznam_sportu=BASE_DIR / "Data_from_Trefik" / "seznam_sportu.txt",
         seznam_lig=BASE_DIR / "Data_from_Trefik" / "seznam_lig.txt"
     )
-
     konvertor.spustit()
+
     print (konvertor.ligy)
 
 if __name__ == "__main__":

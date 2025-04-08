@@ -1,21 +1,36 @@
 import pandas as pd
 from pathlib import Path
+import os
 
 class Simulator:
-    def __init__(self, summary_path: str = "football_stats/database/tips_by_odds.csv", tips_folder: str = "football_stats/database/simulator", stake: float = 100.0):
+    def __init__(self, summary_path: str = "football_stats/database/tips_by_odds.csv", input_folder: str = "football_stats/database/simulator_input", output_folder: str = "football_stats/database/simulator_output", stake: float = 100.0):
         project_root = Path(__file__).resolve().parents[2]  # root = PythonProject2
         self.summary_path = project_root / summary_path
-        self.tips_folder = project_root / tips_folder
+        self.input_folder = project_root / input_folder
+        self.output_folder = project_root / output_folder
         self.stake = stake
 
-        print(f"👉 Očekávaná cesta k souhrnnému CSV: {self.summary_path}")
+        print(f"✨ Očekávaná cesta k souhrnnému CSV: {self.summary_path}")
 
         if not self.summary_path.exists():
             raise FileNotFoundError(f"Soubor se souhrnem nenalezen: {self.summary_path}")
 
         self.summary_df = pd.read_csv(self.summary_path)
 
+        # Zajistíme, že výstupní složka existuje a je čistá
+        self.prepare_output_folder()
 
+    def prepare_output_folder(self):
+        if not self.output_folder.exists():
+            self.output_folder.mkdir(parents=True)
+        else:
+            for file in self.output_folder.glob("*"):
+                if file.is_file():
+                    try:
+                        os.remove(file)
+                        print(f"🗑️ Smazán soubor: {file.name}")
+                    except Exception as e:
+                        print(f"⚠️ Nepodařilo se smazat {file.name}: {e}")
 
     def simulate(self) -> pd.DataFrame:
         results = []
@@ -24,7 +39,7 @@ class Simulator:
             league = row["league"]
             tip_type = row["tip_type"]
             odds_col = f"odds_{tip_type}"
-            tips_file = self.tips_folder / f"tipy_{league}_{tip_type}.csv"
+            tips_file = self.input_folder / f"tipy_{league}_{tip_type}.csv"
 
             if not tips_file.exists():
                 print(f"⚠️ Soubor nenalezen: {tips_file}")
@@ -37,15 +52,14 @@ class Simulator:
 
             total_bets = len(tips_df)
             wins = tips_df[tips_df["result"] == tip_type]
-            losses = tips_df[tips_df["result"] != tip_type]
 
             win_count = len(wins)
-            loss_count = len(losses)
+            loss_count = total_bets - win_count
 
             gain = (wins[odds_col] * self.stake).sum()
-            loss = loss_count * self.stake
-            profit = round(gain - loss, 2)
-            roi = round(profit / (total_bets * self.stake) * 100, 2) if total_bets > 0 else 0.0
+            total_stake = total_bets * self.stake  # ✅ Správně celkový vklad
+            profit = round(gain - total_stake, 2)
+            roi = round(profit / total_stake * 100, 2) if total_bets > 0 else 0.0
 
             results.append({
                 "league": league,
@@ -57,20 +71,16 @@ class Simulator:
                 "roi (%)": roi
             })
 
-        return pd.DataFrame(results)
-
-    from pathlib import Path
-    import pandas as pd
+        df_results = pd.DataFrame(results)
+        df_results.to_csv(self.output_folder / "simulation_result.csv", index=False)
+        return df_results
 
     def simulate_weekly(self, initial_bankroll: float = 5000.0, stake_fraction: float = 0.2):
         bankroll = initial_bankroll
         timeline = []
 
-        # Načteme souhrnný report s očekávanou pravděpodobností
         summary = pd.read_csv(self.summary_path)
-
-        # Najdeme všechny soubory se sázkami
-        tip_files = list(self.tips_folder.glob("tipy_*.csv"))
+        tip_files = list(self.input_folder.glob("tipy_*.csv"))
 
         all_bets = []
 
@@ -78,19 +88,16 @@ class Simulator:
             df = pd.read_csv(tip_file)
             df["date"] = pd.to_datetime(df["date"])
 
-            # Získáme název ligy a typ sázky ze jména souboru
             filename = tip_file.stem
-
             parts = filename.split("_")
+
             if len(parts) < 3:
                 print(f"⚠️ Neočekávaný název souboru: {filename}")
                 continue
 
-            # Vezmeme vše kromě prvního a posledního jako název ligy
             league_name = "_".join(parts[1:-1])
             tip_type = parts[-1]
 
-            # Najdeme odpovídající pravděpodobnost z reportu
             match = summary[(summary["league"] == league_name) & (summary["tip_type"] == tip_type)]
 
             if match.empty:
@@ -120,7 +127,6 @@ class Simulator:
         df_bets["betting_week"] = df_bets["date"].apply(get_betting_week_start)
         df_bets = df_bets.sort_values(by="date").reset_index(drop=True)
 
-        # Simulace po týdnech
         weekly_groups = df_bets.groupby("betting_week")
 
         for week, group in weekly_groups:
@@ -132,7 +138,7 @@ class Simulator:
             stake_per_bet = total_weekly_stake / num_bets
 
             print(
-                f"📅 Týden od {week.date()} | Bankroll: {bankroll:.2f} Kč | Sázky: {num_bets} | Vklad na zápas: {stake_per_bet:.2f} Kč")
+                f"🗓️ Týden od {week.date()} | Bankroll: {bankroll:.2f} Kč | Sázky: {num_bets} | Vklad na zápas: {stake_per_bet:.2f} Kč")
 
             for _, row in group.iterrows():
                 p = row["p"]
@@ -164,9 +170,8 @@ class Simulator:
         roi = round((total_profit / initial_bankroll) * 100, 2)
 
         print(f"\n✅ Konečný bankroll: {bankroll:.2f} Kč")
-        print(f"💹 Zisk: {total_profit:.2f} Kč | ROI: {roi:.2f} %")
+        print(f"📉 Zisk: {total_profit:.2f} Kč | ROI: {roi:.2f} %")
 
-        # Uložení vývoje bankrollu
-        timeline_df.to_csv(self.tips_folder / "bankroll_timeline.csv", index=False)
+        timeline_df.to_csv(self.output_folder / "bankroll_timeline.csv", index=False)
 
         return timeline_df

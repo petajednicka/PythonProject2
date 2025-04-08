@@ -4,5 +4,5 @@ engine = Engine()
 engine.start()
 
 db = engine.get_db_manager()
-df = db.get_dataframe("Db_Fotbal_1.anglická liga.csv", reduced=True)
+df = db.get_dataframe("Db_Fotbal_1.belgická_liga.csv", reduced=True)
 print(df.head())

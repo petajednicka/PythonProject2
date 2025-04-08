@@ -3,12 +3,11 @@ import pandas as pd
 from data.database_manager import DatabaseManager
 from core.tip_recommender import TipRecommender
 
-# 🔧 Dynamicky určíme root projektu podle umístění souboru
+# ✨ Dynamicky určíme root projektu podle umístění souboru
 project_root = Path(__file__).resolve().parents[1]
 database_folder = project_root / "football_stats" / "database"
-simulator_folder = database_folder / "simulator"
-simulator_folder.mkdir(parents=True, exist_ok=True)
-
+simulator_input_folder = database_folder / "simulator_input"
+simulator_input_folder.mkdir(parents=True, exist_ok=True)
 
 # ✅ Inicializace
 db = DatabaseManager()
@@ -18,6 +17,7 @@ summary_rows = []
 for csv_file in database_folder.glob("Db_*.csv"):
     league_name = csv_file.stem.replace("Db_", "")  # např. '1.anglická liga'
     df = pd.read_csv(csv_file)
+
     if "result" not in df.columns and "home_score" in df.columns and "away_score" in df.columns:
         def vypocitej_result(row):
             if row["home_score"] > row["away_score"]:
@@ -26,7 +26,6 @@ for csv_file in database_folder.glob("Db_*.csv"):
                 return "away"
             else:
                 return "draw"
-
 
         df["result"] = df.apply(vypocitej_result, axis=1)
 
@@ -54,9 +53,9 @@ for csv_file in database_folder.glob("Db_*.csv"):
             best_tips_df = recommender.recommend_tips()
 
     if best_row is not None:
-        # ✅ Uložíme do složky pro simulátor
+        # ✅ Uložíme do složky pro simulátor (vstup)
         output_filename = f"tipy_{league_name}_{best_tip}.csv"
-        output_path = simulator_folder / output_filename
+        output_path = simulator_input_folder / output_filename
         best_tips_df.to_csv(output_path, index=False)
         print(f"💾 Uloženo: {output_path}")
 
@@ -79,7 +78,6 @@ if summary_rows:
     print("\n✅ Souhrnný report uložen do: database/tips_by_odds.csv")
 else:
     print("\n⚠️ Nebyl nalezen žádný vhodný tip – souhrnný report nevytvořen.")
-
 
 
 
