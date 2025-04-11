@@ -1,0 +1,8 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.arménská liga,2024-09-23,Ararat_Yerevan,Van_Yerevan,0.0,3.0,2.1,2.93,3.39,away
+Fotbal,1.arménská liga,2024-10-03,Ararat-Armenia,Pyunik_Yerevan,1.0,3.0,2.32,2.93,2.96,away
+Fotbal,1.arménská liga,2024-10-28,Ararat-Armenia,Noah,0.0,1.0,2.11,3.18,3.1,away
+Fotbal,1.arménská liga,2024-11-04,Alashkert_FC,Shirak_Gyumri,1.0,3.0,2.38,2.84,2.98,away
+Fotbal,1.arménská liga,2025-03-01,Pyunik_Yerevan,Ararat-Armenia,1.0,2.0,2.1,3.42,2.94,away
+Fotbal,1.arménská liga,2025-03-08,Alashkert_FC,Ararat_Yerevan,0.0,1.0,2.28,3.04,2.92,away
+Fotbal,1.arménská liga,2025-03-09,Pyunik_Yerevan,Urartu_Yerevan,0.0,3.0,2.11,3.06,3.2,away

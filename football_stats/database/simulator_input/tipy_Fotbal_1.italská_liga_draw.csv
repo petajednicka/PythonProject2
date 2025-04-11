@@ -1,0 +1,14 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.italská liga,2024-09-23,Atalanta_Bergamo,Como,,,1.51,4.58,6.63,draw
+Fotbal,1.italská liga,2024-09-24,Atalanta_Bergamo,Como,,,1.54,4.47,6.25,draw
+Fotbal,1.italská liga,2024-10-06,Juventus,Cagliari,1.0,1.0,1.52,4.29,7.14,draw
+Fotbal,1.italská liga,2024-10-30,Juventus,Parma,2.0,2.0,1.44,4.88,7.41,draw
+Fotbal,1.italská liga,2024-12-15,Milan_AC,Genoa_FC,0.0,0.0,1.53,4.22,6.93,draw
+Fotbal,1.italská liga,2025-01-15,Inter_Milan,Bologna,2.0,2.0,1.53,4.31,6.74,draw
+Fotbal,1.italská liga,2025-02-01,Atalanta_Bergamo,Torino_AC,1.0,1.0,1.54,4.28,6.64,draw
+Fotbal,1.italská liga,2025-02-09,Napoli,Udinese,1.0,1.0,1.45,4.48,8.26,draw
+Fotbal,1.italská liga,2025-02-16,Atalanta_Bergamo,Cagliari,,,1.42,4.96,7.04,draw
+Fotbal,1.italská liga,2025-02-15,Atalanta_Bergamo,Cagliari,0.0,0.0,1.53,4.48,6.33,draw
+Fotbal,1.italská liga,2025-03-16,Venezia_AC,Napoli,0.0,0.0,7.58,4.35,1.49,draw
+Fotbal,1.italská liga,2025-04-05,Parma,Inter_Milan,2.0,2.0,8.52,4.71,1.42,draw
+Fotbal,1.italská liga,2025-04-13,Juventus,Lecce,,,1.34,4.91,10.1,draw

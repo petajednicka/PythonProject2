@@ -1,0 +1,7 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,2.slovenská liga,2024-09-28,Púchov,Malženice,1.0,3.0,1.65,3.65,4.26,away
+Fotbal,2.slovenská liga,2024-10-12,Petržalka_FC,Liptovský_Mikuláš,0.0,1.0,1.63,3.64,4.44,away
+Fotbal,2.slovenská liga,2024-10-19,Považská_Bystrica,Žilina_B,0.0,4.0,1.62,3.88,4.24,away
+Fotbal,2.slovenská liga,2024-11-02,Petržalka_FC,Púchov,1.0,2.0,1.6,3.77,4.49,away
+Fotbal,2.slovenská liga,2024-11-02,Liptovský_Mikuláš,Pohronie_FK,0.0,2.0,1.62,3.79,4.31,away
+Fotbal,2.slovenská liga,2025-03-08,Humenné,Zvolen,1.0,2.0,1.73,3.27,4.35,away

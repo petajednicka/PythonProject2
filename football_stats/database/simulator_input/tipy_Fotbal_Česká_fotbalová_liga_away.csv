@@ -1,0 +1,11 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,Česká fotbalová liga,2024-09-06,Příbram,Táborsko_B,0.0,1.0,1.55,4.07,3.59,away
+Fotbal,Česká fotbalová liga,2024-09-08,Teplice_B,Ústí_n._Orlicí,0.0,2.0,1.51,4.11,3.84,away
+Fotbal,Česká fotbalová liga,2024-09-21,Ústí_n._Orlicí,Mladá_Boleslav_B,0.0,2.0,1.58,4.02,3.53,away
+Fotbal,Česká fotbalová liga,2024-11-10,Admira_Praha_FK,Bohemians_1905_B,1.0,2.0,1.66,3.4,3.72,away
+Fotbal,Česká fotbalová liga,2024-11-15,Písek,Hostouň,1.0,2.0,1.49,3.99,4.18,away
+Fotbal,Česká fotbalová liga,2024-11-23,Kladno_SK,Brozany,1.0,3.0,1.57,3.88,3.74,away
+Fotbal,Česká fotbalová liga,2025-03-07,České_Budějovice_B,Hostouň,1.0,2.0,1.62,3.78,3.56,away
+Fotbal,Česká fotbalová liga,2025-03-15,Velvary,Dukla_Praha_FK_B,0.0,1.0,1.59,4.02,3.46,away
+Fotbal,Česká fotbalová liga,2025-03-29,Lokomotiva_Vltavín,Hostouň,0.0,3.0,1.57,3.78,3.85,away
+Fotbal,Česká fotbalová liga,2025-04-06,Zápy_Sokol,Brozany,2.0,3.0,1.46,4.1,4.17,away

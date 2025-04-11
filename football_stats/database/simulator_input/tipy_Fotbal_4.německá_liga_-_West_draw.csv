@@ -1,0 +1,15 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,4.německá liga - West,2024-10-12,Duren,Wuppertaler,0.0,0.0,2.04,3.21,3.22,draw
+Fotbal,4.německá liga - West,2024-10-28,Uerdingen,Düsseldorf_(Am.),1.0,1.0,3.42,3.03,2.04,draw
+Fotbal,4.německá liga - West,2024-12-04,Köln_(Am.),Mönchengladbach_(Am.),0.0,0.0,2.49,3.27,2.49,draw
+Fotbal,4.německá liga - West,2025-01-25,Düsseldorf_(Am.),Duren,1.0,1.0,2.44,2.97,2.78,draw
+Fotbal,4.německá liga - West,2025-01-25,Paderborn_(Am.),Köln_(Am.),2.0,2.0,2.08,3.15,3.19,draw
+Fotbal,4.německá liga - West,2025-02-01,Duren,Fortuna_Köln,0.0,0.0,3.24,3.08,2.09,draw
+Fotbal,4.německá liga - West,2025-02-09,Fortuna_Köln,Köln_(Am.),3.0,3.0,1.81,3.28,3.9,draw
+Fotbal,4.německá liga - West,2025-02-22,Eintracht_Hohkeppel,Gutersloh,1.0,1.0,2.85,3.28,2.21,draw
+Fotbal,4.německá liga - West,2025-03-08,Fortuna_Köln,Lotte_Sportfreunde,1.0,1.0,2.48,3.06,2.65,draw
+Fotbal,4.německá liga - West,2025-03-08,Rödinghausen_SV,Mönchengladbach_(Am.),0.0,0.0,2.07,3.11,3.26,draw
+Fotbal,4.německá liga - West,2025-03-15,Mönchengladbach_(Am.),Bocholt_FC,2.0,2.0,2.13,3.28,2.97,draw
+Fotbal,4.německá liga - West,2025-03-15,Gutersloh,Fortuna_Köln,2.0,2.0,2.73,3.12,2.39,draw
+Fotbal,4.německá liga - West,2025-03-15,Wuppertaler,Rödinghausen_SV,2.0,2.0,3.0,2.95,2.29,draw
+Fotbal,4.německá liga - West,2025-04-05,Lotte_Sportfreunde,Rödinghausen_SV,1.0,1.0,2.01,3.18,3.32,draw

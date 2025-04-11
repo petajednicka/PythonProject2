@@ -1,0 +1,8 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.francouzská liga,2024-10-26,Lens,Lille,0.0,2.0,2.12,3.39,3.83,away
+Fotbal,1.francouzská liga,2025-01-05,Lens,Toulouse,0.0,1.0,2.01,3.55,3.99,away
+Fotbal,1.francouzská liga,2025-01-12,Toulouse,Strasbourg,1.0,2.0,1.96,3.7,4.02,away
+Fotbal,1.francouzská liga,2025-01-18,Rennes,Brest,1.0,2.0,2.04,3.31,4.23,away
+Fotbal,1.francouzská liga,2025-02-16,Lens,Strasbourg,0.0,2.0,1.87,3.9,4.18,away
+Fotbal,1.francouzská liga,2025-03-30,Toulouse,Brest,2.0,4.0,2.03,3.45,4.05,away
+Fotbal,1.francouzská liga,2025-04-06,Rennes,Auxerre,0.0,1.0,1.92,3.78,4.11,away

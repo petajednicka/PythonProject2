@@ -1,0 +1,5 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,2.islandská liga,2024-09-07,Njardvík,Keflavik_IBV,0,0,2.61,3.68,2.21,draw
+Fotbal,2.islandská liga,2024-09-14,Grindavík_UG,Njardvík,2,2,3.76,4.05,1.67,draw
+Fotbal,2.islandská liga,2024-09-14,Leiknir_Reykjavik,Vestmannaeyar_IBV,1,1,5.16,4.68,1.41,draw
+Fotbal,2.islandská liga,2024-09-23,Fjolnir_Reykjavik,Afturelding,0,0,2.59,3.82,2.18,draw

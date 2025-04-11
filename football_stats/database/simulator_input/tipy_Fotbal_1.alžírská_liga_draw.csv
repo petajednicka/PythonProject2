@@ -1,0 +1,23 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.alžírská liga,2024-09-28,Magra,Alger_USM,0,0,3.44,2.61,2.43,draw
+Fotbal,1.alžírská liga,2024-10-02,Khenchela_USM,Belouizdad_CR,0,0,2.9,2.61,2.8,draw
+Fotbal,1.alžírská liga,2024-10-06,Constantine_CS,Alger_MC,1,1,2.65,2.58,3.1,draw
+Fotbal,1.alžírská liga,2024-10-06,Biskra_US,Belouizdad_CR,0,0,4.17,2.62,2.16,draw
+Fotbal,1.alžírská liga,2024-10-12,Magra,Biskra_US,2,2,2.08,2.65,4.4,draw
+Fotbal,1.alžírská liga,2024-10-25,Paradou_AC,Oran_MC,2,2,2.37,2.66,3.46,draw
+Fotbal,1.alžírská liga,2024-10-26,Chlef_ASO,Alger_USM,0,0,2.99,2.64,2.68,draw
+Fotbal,1.alžírská liga,2024-11-09,Kabylie_JS,Alger_USM,0,0,2.17,2.69,3.94,draw
+Fotbal,1.alžírská liga,2024-12-01,Entente_Sportive_de_Sétif,Alger_MC,0,0,2.85,2.48,3.01,draw
+Fotbal,1.alžírská liga,2024-12-02,Saoura_JS,Kabylie_JS,1,1,2.67,2.54,3.13,draw
+Fotbal,1.alžírská liga,2024-12-02,Biskra_US,Constantine_CS,1,1,2.5,2.65,3.25,draw
+Fotbal,1.alžírská liga,2024-12-13,Entente_Sportive_de_Sétif,Kabylie_JS,2,2,2.21,2.62,3.98,draw
+Fotbal,1.alžírská liga,2024-12-21,Entente_Sportive_de_Sétif,Alger_USM,1,1,2.98,2.64,2.69,draw
+Fotbal,1.alžírská liga,2025-02-01,Oued_Akbou,Alger_USM,0,0,3.03,2.68,2.62,draw
+Fotbal,1.alžírská liga,2025-02-02,Mostaganem_ES,Alger_MC,1,1,4.07,2.68,2.15,draw
+Fotbal,1.alžírská liga,2025-02-13,Mostaganem_ES,Constantine_CS,0,0,2.63,2.49,3.27,draw
+Fotbal,1.alžírská liga,2025-02-14,Magra,Oued_Akbou,1,1,1.99,2.69,4.77,draw
+Fotbal,1.alžírská liga,2025-02-14,Biskra_US,Alger_USM,0,0,3.94,2.68,2.18,draw
+Fotbal,1.alžírská liga,2025-02-19,Oued_Akbou,Kabylie_JS,0,0,2.51,2.58,3.33,draw
+Fotbal,1.alžírská liga,2025-02-26,Magra,Entente_Sportive_de_Sétif,0,0,2.56,2.48,3.4,draw
+Fotbal,1.alžírská liga,2025-03-06,El_Bayadh,Belouizdad_CR,0,0,3.65,2.66,2.29,draw
+Fotbal,1.alžírská liga,2025-04-04,Biskra_US,Mostaganem_ES,0,0,2.23,2.58,4.0,draw

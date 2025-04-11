@@ -1,0 +1,7 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.thajská liga,2024-11-24,Nakhon_Ratchasima,Pathum_United_BG,1.0,0.0,4.69,3.87,1.55,home
+Fotbal,1.thajská liga,2024-12-15,Chiangrai_United,Muang_Thong_United,3.0,1.0,4.3,3.75,1.63,home
+Fotbal,1.thajská liga,2025-01-12,Chiangrai_United,Port_FC,1.0,0.0,4.36,3.36,1.7,home
+Fotbal,1.thajská liga,2025-01-18,Chiangrai_United,Pathum_United_BG,1.0,0.0,4.12,3.18,1.8,home
+Fotbal,1.thajská liga,2025-01-20,Sukhothai,Port_FC,3.0,2.0,3.93,3.85,1.67,home
+Fotbal,1.thajská liga,2025-03-15,Sukhothai,Ratchaburi,2.0,1.0,3.79,3.61,1.75,home

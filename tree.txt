@@ -1,0 +1,11 @@
+# tree of project
+
+PycharmProject2/
+    football_stats/
+	core/
+	data/
+	Data_from_Trefik/
+	    TXT_files_utf8/	
+	result/
+	tests/
+	ui/

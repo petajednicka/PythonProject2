@@ -1,0 +1,6 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.slovenská liga,2024-09-14,Banská_Bystrica,Komárno,2.0,3.0,1.75,3.77,4.4,away
+Fotbal,1.slovenská liga,2024-09-29,Ružomberok,Skalica_MFK,1.0,2.0,1.86,3.45,4.25,away
+Fotbal,1.slovenská liga,2025-03-01,Slovan_Bratislava,Trnava,0.0,1.0,1.7,4.03,4.44,away
+Fotbal,1.slovenská liga,2025-03-08,Ružomberok,Komárno,0.0,1.0,1.81,3.65,4.2,away
+Fotbal,1.slovenská liga,2025-04-06,Ružomberok,Banská_Bystrica,1.0,2.0,1.84,3.46,4.31,away

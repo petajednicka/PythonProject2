@@ -1,0 +1,11 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,Copa Argentina,2024-09-08,Boca_Juniors,Talleres,2.0,1.0,2.26,2.65,3.45,home
+Fotbal,Copa Argentina,2024-09-19,Central_Córdoba_SdE,Temperley,2.0,1.0,2.02,2.71,4.03,home
+Fotbal,Copa Argentina,2024-09-27,Velez_Sarsfield,Independiente,1.0,0.0,2.08,2.71,3.85,home
+Fotbal,Copa Argentina,2024-10-24,Boca_Juniors,Gimnasia_L.P.,2.0,1.0,1.81,3.2,4.56,home
+Fotbal,Copa Argentina,2025-02-20,Defensa_y_Justicia,Racing_Córdoba,3.0,1.0,1.7,3.09,4.85,home
+Fotbal,Copa Argentina,2025-03-05,Deportivo_Riestra,San_Telmo,3.0,2.0,2.12,2.76,3.6,home
+Fotbal,Copa Argentina,2025-03-05,Union_Santa_Fe,Colegiales,3.0,1.0,1.79,2.97,4.52,home
+Fotbal,Copa Argentina,2025-03-19,Aldosivi,Gimnasia_y_Tiro,2.0,1.0,1.96,2.65,4.41,home
+Fotbal,Copa Argentina,2025-04-02,Atlético_Tucumán,Club_Atlético_All_Boys,2.0,1.0,1.83,2.59,5.29,home
+Fotbal,Copa Argentina,2025-04-03,Instituto,Deportivo_Madryn,3.0,0.0,1.79,2.87,4.74,home

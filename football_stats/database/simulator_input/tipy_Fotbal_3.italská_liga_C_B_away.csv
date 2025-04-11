@@ -1,0 +1,13 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,3.italská liga C B,2024-09-08,Spal,Lucchese,2.0,3.0,1.93,2.92,3.95,away
+Fotbal,3.italská liga C B,2024-09-26,Entella,Pescara,0.0,1.0,1.91,2.94,3.99,away
+Fotbal,3.italská liga C B,2024-09-26,Perugia,Rimini,1.0,4.0,1.81,3.18,4.05,away
+Fotbal,3.italská liga C B,2024-09-29,Ascoli,Rimini,0.0,1.0,1.79,3.19,4.14,away
+Fotbal,3.italská liga C B,2024-10-05,Milan_AC_U23,Pianese,0.0,1.0,1.78,3.13,4.31,away
+Fotbal,3.italská liga C B,2024-10-06,Torres,Arezzo,0.0,2.0,1.96,2.89,3.91,away
+Fotbal,3.italská liga C B,2024-10-30,Milan_AC_U23,Pineto,0.0,2.0,1.98,2.87,3.87,away
+Fotbal,3.italská liga C B,2024-12-01,Torres,Ascoli,1.0,2.0,1.81,2.99,4.38,away
+Fotbal,3.italská liga C B,2024-12-01,Campobasso,Rimini,1.0,2.0,1.97,2.86,3.94,away
+Fotbal,3.italská liga C B,2025-01-12,Campobasso,Pianese,0.0,2.0,1.94,2.94,3.9,away
+Fotbal,3.italská liga C B,2025-02-17,Pescara,Ascoli,1.0,2.0,1.77,3.23,4.21,away
+Fotbal,3.italská liga C B,2025-03-08,Ascoli,Pineto,0.0,1.0,1.91,3.01,3.87,away

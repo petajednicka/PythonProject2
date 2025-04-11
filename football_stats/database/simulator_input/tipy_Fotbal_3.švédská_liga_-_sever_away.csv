@@ -1,0 +1,5 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,3.švédská liga - sever,2024-09-15,Örebro_Syrianska_BK,Pitea,0,1,1.74,3.73,3.71,away
+Fotbal,3.švédská liga - sever,2024-10-13,Täby_IS,Pitea,0,2,1.84,3.76,3.3,away
+Fotbal,3.švédská liga - sever,2024-11-01,FBK_Karlstad,Örebro_Syrianska_BK,1,2,1.85,3.68,3.32,away
+Fotbal,3.švédská liga - sever,2024-11-09,United_Nordic,Vasalund_IF,1,4,1.85,3.55,3.45,away

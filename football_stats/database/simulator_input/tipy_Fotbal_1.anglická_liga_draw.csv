@@ -1,0 +1,26 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.anglická liga,2024-09-14,Brighton,Ipswich,0.0,0.0,1.5,4.72,6.49,draw
+Fotbal,1.anglická liga,2024-09-28,Newcastle,Manchester_City,1.0,1.0,5.18,4.45,1.63,draw
+Fotbal,1.anglická liga,2024-10-06,Chelsea,Nottingham,1.0,1.0,1.49,4.85,6.39,draw
+Fotbal,1.anglická liga,2024-10-26,Brighton,Wolverhampton_Wanderers,2.0,2.0,1.57,4.52,5.73,draw
+Fotbal,1.anglická liga,2024-12-03,Arsenal,Manchester_United,,,1.46,4.61,6.11,draw
+Fotbal,1.anglická liga,2024-12-07,Everton,Liverpool,,,6.35,4.54,1.53,draw
+Fotbal,1.anglická liga,2024-12-08,Leicester,Brighton,2.0,2.0,4.96,4.34,1.67,draw
+Fotbal,1.anglická liga,2024-12-14,Manchester_City,Manchester_United,,,1.58,4.7,5.09,draw
+Fotbal,1.anglická liga,2024-12-14,Southampton,Tottenham,,,4.08,4.61,1.72,draw
+Fotbal,1.anglická liga,2024-12-16,Bournemouth,West_Ham,1.0,1.0,1.72,4.35,4.59,draw
+Fotbal,1.anglická liga,2024-12-22,Fulham,Southampton,0.0,0.0,1.61,4.36,5.52,draw
+Fotbal,1.anglická liga,2024-12-27,Brighton,Brentford,0.0,0.0,1.63,4.65,4.98,draw
+Fotbal,1.anglická liga,2024-12-29,Brentford,Arsenal,,,5.59,4.67,1.49,draw
+Fotbal,1.anglická liga,2024-12-29,Tottenham,Wolverhampton_Wanderers,2.0,2.0,1.67,4.69,4.64,draw
+Fotbal,1.anglická liga,2025-01-05,Fulham,Ipswich,2.0,2.0,1.55,4.41,6.2,draw
+Fotbal,1.anglická liga,2025-01-14,Brentford,Manchester_City,2.0,2.0,5.02,4.66,1.62,draw
+Fotbal,1.anglická liga,2025-01-14,Nottingham,Liverpool,1.0,1.0,5.41,4.36,1.62,draw
+Fotbal,1.anglická liga,2025-01-15,Chelsea,Bournemouth,,,1.62,4.47,4.98,draw
+Fotbal,1.anglická liga,2025-01-18,Arsenal,Aston_Villa,2.0,2.0,1.56,4.33,6.17,draw
+Fotbal,1.anglická liga,2025-01-18,Nottingham,Southampton,,,1.43,4.63,6.78,draw
+Fotbal,1.anglická liga,2025-01-14,Chelsea,Bournemouth,2.0,2.0,1.52,4.92,5.79,draw
+Fotbal,1.anglická liga,2025-01-26,Aston_Villa,West_Ham,1.0,1.0,1.48,4.87,6.67,draw
+Fotbal,1.anglická liga,2025-02-12,Everton,Liverpool,2.0,2.0,7.47,4.7,1.46,draw
+Fotbal,1.anglická liga,2025-04-12,Manchester_City,Crystal_Palace,,,1.53,4.54,5.8,draw
+Fotbal,1.anglická liga,2025-04-12,Southampton,Aston_Villa,,,5.51,4.44,1.57,draw

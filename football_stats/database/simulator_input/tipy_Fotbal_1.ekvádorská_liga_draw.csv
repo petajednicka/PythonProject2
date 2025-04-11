@@ -1,0 +1,7 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.ekvádorská liga,2024-09-21,Libertad,Independiente_José_Terán,1.0,1.0,7.08,4.35,1.34,draw
+Fotbal,1.ekvádorská liga,2024-09-30,Barcelona,Libertad,0.0,0.0,1.3,4.52,8.21,draw
+Fotbal,1.ekvádorská liga,2024-10-18,Cumbaya,Universidad_Catolica_Quito,1.0,1.0,8.19,4.79,1.28,draw
+Fotbal,1.ekvádorská liga,2024-10-27,LDU_de_Quito,Mushuc_Runa,1.0,1.0,1.39,4.22,6.18,draw
+Fotbal,1.ekvádorská liga,2024-12-01,Barcelona,Mushuc_Runa,2.0,2.0,1.43,4.25,5.42,draw
+Fotbal,1.ekvádorská liga,2025-02-23,Universidad_Catolica_Quito,El_Nacional_Quito,1.0,1.0,1.43,4.26,5.49,draw

@@ -1,0 +1,6 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.venezuelská liga,2024-09-21,Academia_Puerto_Cabello,Angostura_FC,1.0,1.0,1.46,3.7,6.17,draw
+Fotbal,1.venezuelská liga,2024-11-09,Deportivo_Táchira,Rayo_Zuliano,,,1.32,4.23,8.39,draw
+Fotbal,1.venezuelská liga,2025-01-26,Deportivo_Táchira,Zamora_FC,,,1.37,4.0,7.52,draw
+Fotbal,1.venezuelská liga,2025-02-15,Carabobo_FC,Yaracuyanos_FC,2.0,2.0,1.29,4.33,9.56,draw
+Fotbal,1.venezuelská liga,2025-03-16,Deportivo_Táchira,Metropolitanos_FC,1.0,1.0,1.4,3.87,7.0,draw

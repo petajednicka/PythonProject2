@@ -1,0 +1,6 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.švýcarská liga,2024-09-28,Yverdon,St._Gallen,1.0,0.0,4.3,4.21,1.69,home
+Fotbal,1.švýcarská liga,2024-10-20,Yverdon,Lugano_AC,2.0,0.0,4.99,4.19,1.6,home
+Fotbal,1.švýcarská liga,2024-11-09,Winterthur,Lausanne,1.0,0.0,4.8,4.25,1.61,home
+Fotbal,1.švýcarská liga,2025-02-16,Yverdon,St._Gallen,1.0,0.0,3.74,3.71,1.9,home
+Fotbal,1.švýcarská liga,2025-03-01,Winterthur,St._Gallen,4.0,0.0,4.0,4.13,1.75,home

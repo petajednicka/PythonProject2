@@ -1,0 +1,5 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.kuvajtská liga,2025-01-14,Al-Yarmouk,Al-Qadissiyah,2,2,6.48,4.07,1.4,draw
+Fotbal,1.kuvajtská liga,2025-02-27,Kazma,Al-Kuwait_SC,1,1,6.28,4.45,1.36,draw
+Fotbal,1.kuvajtská liga,2025-03-29,Al-Arabi,Salmiya,1,1,1.33,4.54,6.96,draw
+Fotbal,1.kuvajtská liga,2025-04-05,Al-Arabi,Fehayheel,1,1,1.34,4.38,7.02,draw

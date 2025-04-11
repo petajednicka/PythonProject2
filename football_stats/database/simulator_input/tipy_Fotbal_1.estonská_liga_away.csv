@@ -1,0 +1,7 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.estonská liga,2024-10-05,Kalev_Tallin,Tammeka_Tartu,1.0,2.0,2.97,3.53,2.04,away
+Fotbal,1.estonská liga,2024-10-23,Kalev_Tallin,Narva_Trans,0.0,1.0,2.79,3.5,2.16,away
+Fotbal,1.estonská liga,2024-10-27,Kalju_Nomme_JK,Levadia_Tallin,0.0,4.0,3.16,3.39,2.0,away
+Fotbal,1.estonská liga,2025-03-16,Kuressaare_FC,Harju_Jalgpallikool,1.0,2.0,2.64,3.33,2.33,away
+Fotbal,1.estonská liga,2025-03-29,Harju_Jalgpallikool,Narva_Trans,0.0,3.0,2.8,3.48,2.15,away
+Fotbal,1.estonská liga,2025-04-05,Kalju_Nomme_JK,Flora_Tallin,1.0,2.0,2.52,3.48,2.36,away

@@ -1,0 +1,9 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.španělská liga,2024-11-02,Valencia_FC,Real_Madrid,,,7.13,4.48,1.47,draw
+Fotbal,1.španělská liga,2024-11-23,Celta_Vigo,Barcelona_FC,2.0,2.0,4.42,4.36,1.75,draw
+Fotbal,1.španělská liga,2024-12-07,Betis_Sevilla,Barcelona_FC,2.0,2.0,5.86,4.92,1.52,draw
+Fotbal,1.španělská liga,2024-12-14,Vallecano_Madrid,Real_Madrid,3.0,3.0,6.42,4.39,1.54,draw
+Fotbal,1.španělská liga,2025-01-18,Getafe,Barcelona_FC,1.0,1.0,7.14,4.64,1.48,draw
+Fotbal,1.španělská liga,2025-01-26,Bilbao,Leganes,0.0,0.0,1.37,4.86,10.5,draw
+Fotbal,1.španělská liga,2025-02-15,Atletico_Madrid,Celta_Vigo,1.0,1.0,1.42,4.84,8.36,draw
+Fotbal,1.španělská liga,2025-03-30,Bilbao,Osasuna,0.0,0.0,1.5,4.37,7.24,draw

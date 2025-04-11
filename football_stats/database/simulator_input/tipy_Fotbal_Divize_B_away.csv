@@ -1,0 +1,11 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,Divize B,2024-10-05,Český_Brod,Meteor_Praha,0.0,1.0,3.17,3.52,1.76,away
+Fotbal,Divize B,2024-10-19,Březová,Neratovice,2.0,7.0,3.35,4.01,1.62,away
+Fotbal,Divize B,2024-10-22,Březová,Újezd_Praha_SK,1.0,7.0,3.09,3.7,1.74,away
+Fotbal,Divize B,2024-10-27,Ústí_n._Labem_B,Slaný_SK,0.0,1.0,3.27,4.0,1.64,away
+Fotbal,Divize B,2024-11-02,Hřebeč_SK,Neratovice,0.0,1.0,4.92,3.97,1.42,away
+Fotbal,Divize B,2024-11-02,Březová,Mariánské_Lázně,2.0,3.0,3.98,3.82,1.54,away
+Fotbal,Divize B,2025-03-15,Admira_Praha_FK_B,Neratovice,0.0,2.0,6.02,4.3,1.3,away
+Fotbal,Divize B,2025-03-22,Březová,Slaný_SK,1.0,4.0,4.61,3.8,1.47,away
+Fotbal,Divize B,2025-03-29,Sokolov_Baník,Neratovice,1.0,2.0,5.08,3.88,1.42,away
+Fotbal,Divize B,2025-04-05,Hřebeč_SK,Slaný_SK,0.0,3.0,4.78,4.06,1.41,away

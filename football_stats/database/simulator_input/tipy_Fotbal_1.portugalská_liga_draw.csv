@@ -1,0 +1,7 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.portugalská liga,2024-10-06,Guimaraes,Boavista_Porto,2.0,2.0,1.37,4.69,9.8,draw
+Fotbal,1.portugalská liga,2024-12-07,Famalicao,Porto_FC,1.0,1.0,8.75,4.76,1.39,draw
+Fotbal,1.portugalská liga,2024-12-23,Guimaraes,Nacional,2.0,2.0,1.38,4.78,8.98,draw
+Fotbal,1.portugalská liga,2025-02-03,Rio_Ave,Porto_FC,2.0,2.0,7.37,4.72,1.43,draw
+Fotbal,1.portugalská liga,2025-04-07,Sporting_Lisabon,Braga,1.0,1.0,1.37,4.95,8.67,draw
+Fotbal,1.portugalská liga,2025-04-13,Braga,AVS_Vila_das_Aves,,,1.36,4.78,8.38,draw

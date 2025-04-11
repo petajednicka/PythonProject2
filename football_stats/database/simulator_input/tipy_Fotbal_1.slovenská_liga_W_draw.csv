@@ -1,0 +1,5 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.slovenská liga W,2024-09-21,Trnava,Komárno,1,1,4.19,4.47,1.54,draw
+Fotbal,1.slovenská liga W,2024-11-16,Žilina,Trenčín,1,1,1.54,4.56,4.1,draw
+Fotbal,1.slovenská liga W,2025-03-22,Prešov,Slovan_Bratislava,2,2,6.48,4.91,1.32,draw
+Fotbal,1.slovenská liga W,2025-03-22,Petržalka,Trenčín,2,2,1.44,4.54,4.96,draw

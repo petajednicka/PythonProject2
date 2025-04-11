@@ -1,0 +1,12 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.indonéská liga,2024-09-16,Bali_United_Pusam,Sleman_PSS,0.0,0.0,1.49,4.05,5.99,draw
+Fotbal,1.indonéská liga,2024-09-30,Pusamania_Borneo,Persita_Tangerang,0.0,0.0,1.43,4.07,7.27,draw
+Fotbal,1.indonéská liga,2024-12-06,Pusamania_Borneo,Semarang_PSIS,0.0,0.0,1.32,4.61,9.13,draw
+Fotbal,1.indonéská liga,2024-12-12,Arema_Malang_ISL,Persis_Solo,1.0,1.0,1.45,4.24,6.3,draw
+Fotbal,1.indonéská liga,2024-12-12,Dewa_United_FC,Barito_Putra,1.0,1.0,1.47,4.25,5.87,draw
+Fotbal,1.indonéská liga,2025-02-22,Persib_Maung_Bandung,Madura_United,0.0,0.0,1.46,4.2,6.17,draw
+Fotbal,1.indonéská liga,2025-02-24,Arema_Malang_ISL,Semarang_PSIS,2.0,2.0,1.29,4.99,9.15,draw
+Fotbal,1.indonéská liga,2025-03-02,Bali_United_Pusam,Persita_Tangerang,1.0,1.0,1.54,4.0,5.32,draw
+Fotbal,1.indonéská liga,2025-03-04,Persija_Jakarta_ISL,Semarang_PSIS,,,1.47,4.08,6.2,draw
+Fotbal,1.indonéská liga,2025-03-12,Persebaya_Surabaya,Semarang_PSIS,1.0,1.0,1.46,4.11,6.37,draw
+Fotbal,1.indonéská liga,2025-04-10,Makassar_PSM,Semen_Padang,,,1.36,4.47,8.18,draw

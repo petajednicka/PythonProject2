@@ -1,0 +1,8 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.německá liga W,2024-09-20,Leipzig_FFV,Werder_Bremen,2.0,0.0,2.79,3.59,2.12,home
+Fotbal,1.německá liga W,2024-09-27,Bayer_04_Leverkusen,Hoffenheim_1899,2.0,1.0,2.42,3.36,2.52,home
+Fotbal,1.německá liga W,2024-10-20,Freiburg_SC,Leipzig_FFV,4.0,1.0,2.16,3.38,2.86,home
+Fotbal,1.německá liga W,2024-11-15,Freiburg_SC,Essen-Schönebeck_SG,1.0,0.0,2.27,3.28,2.76,home
+Fotbal,1.německá liga W,2025-02-16,Hoffenheim_1899,Bayer_04_Leverkusen,1.0,0.0,2.28,3.25,2.76,home
+Fotbal,1.německá liga W,2025-03-10,Werder_Bremen,Hoffenheim_1899,1.0,0.0,2.98,2.84,2.38,home
+Fotbal,1.německá liga W,2025-03-14,Bayern_München,Wolfsburg_VfL,3.0,1.0,2.0,3.18,3.33,home

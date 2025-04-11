@@ -1,0 +1,11 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,2.skotská liga,2024-09-28,Raith_Rovers,Falkirk_FC,1.0,0.0,4.01,3.51,1.82,home
+Fotbal,2.skotská liga,2024-11-16,Livingston,Falkirk_FC,1.0,0.0,3.74,3.42,1.91,home
+Fotbal,2.skotská liga,2024-12-14,Ayr._United,Falkirk_FC,5.0,2.0,4.08,3.34,1.85,home
+Fotbal,2.skotská liga,2024-12-28,Raith_Rovers,Livingston,2.0,1.0,3.53,2.93,2.17,home
+Fotbal,2.skotská liga,2024-12-31,Greenock_Morton,Partick_Thistle,2.0,1.0,3.67,3.14,2.02,home
+Fotbal,2.skotská liga,2025-01-04,Queen's_Park_FC,Livingston,2.0,0.0,3.59,3.27,2.0,home
+Fotbal,2.skotská liga,2025-01-25,Airdrieonians,Dunfermline,3.0,0.0,3.77,3.18,1.98,home
+Fotbal,2.skotská liga,2025-02-25,Airdrieonians,Raith_Rovers,1.0,0.0,3.46,3.09,2.11,home
+Fotbal,2.skotská liga,2025-03-08,Greenock_Morton,Ayr._United,2.0,1.0,4.13,3.04,1.95,home
+Fotbal,2.skotská liga,2025-04-02,Dunfermline,Livingston,1.0,0.0,3.65,3.0,2.09,home

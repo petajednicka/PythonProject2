@@ -1,0 +1,17 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,4.německá liga - Bayern,2024-09-07,Vilzing,Viktoria_Aschaffenburg,0.0,0.0,1.52,3.88,4.99,draw
+Fotbal,4.německá liga - Bayern,2024-09-14,Burghausen_Wacker,Bamberg_Eintracht_1.FC,,,1.54,3.94,4.72,draw
+Fotbal,4.německá liga - Bayern,2024-09-17,Würzburger_Kickers,Nürnberg_FC_(Am.),2.0,2.0,1.63,3.92,4.1,draw
+Fotbal,4.německá liga - Bayern,2024-09-28,Würzburger_Kickers,Aubstadt_TSV,1.0,1.0,1.38,4.19,6.61,draw
+Fotbal,4.německá liga - Bayern,2024-10-03,Fürth_(Am.),Ansbach,,,1.5,4.3,4.62,draw
+Fotbal,4.německá liga - Bayern,2024-10-11,Schweinfurt,Viktoria_Aschaffenburg,1.0,1.0,1.38,4.25,6.46,draw
+Fotbal,4.německá liga - Bayern,2024-10-22,Bamberg_Eintracht_1.FC,Augsburg_FC_(Am.),3.0,3.0,4.81,4.29,1.48,draw
+Fotbal,4.německá liga - Bayern,2024-10-22,Fürth_(Am.),Würzburger_Kickers,1.0,1.0,4.35,3.92,1.59,draw
+Fotbal,4.německá liga - Bayern,2024-10-22,Burghausen_Wacker,Ansbach,0.0,0.0,1.51,4.04,4.81,draw
+Fotbal,4.německá liga - Bayern,2024-11-02,Augsburg_FC_(Am.),Fürth_(Am.),1.0,1.0,1.9,3.95,3.02,draw
+Fotbal,4.německá liga - Bayern,2024-11-02,Nürnberg_FC_(Am.),Ansbach,1.0,1.0,1.66,4.02,3.83,draw
+Fotbal,4.německá liga - Bayern,2024-11-09,Schwaben_Augsburg,Würzburger_Kickers,1.0,1.0,4.79,4.19,1.5,draw
+Fotbal,4.německá liga - Bayern,2024-11-13,Fürth_(Am.),Ansbach,1.0,1.0,1.8,3.88,3.36,draw
+Fotbal,4.německá liga - Bayern,2024-11-23,Ansbach,Würzburger_Kickers,,,5.04,4.25,1.47,draw
+Fotbal,4.německá liga - Bayern,2025-03-01,Fürth_(Am.),Schweinfurt,1.0,1.0,4.07,3.86,1.65,draw
+Fotbal,4.německá liga - Bayern,2025-03-29,Ansbach,Bamberg_Eintracht_1.FC,1.0,1.0,1.5,4.02,4.92,draw

@@ -1,0 +1,14 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,2.srbská liga,2024-09-23,Trajal_Krusevac,Mladost_Novi_Sad,0.0,1.0,3.08,2.62,2.49,away
+Fotbal,2.srbská liga,2024-10-20,Radnički_Sremska_Mitrovica,Vozdovac_Beograd,0.0,1.0,3.33,2.77,2.22,away
+Fotbal,2.srbská liga,2024-11-11,Trajal_Krusevac,Radnik_Surdulica,1.0,2.0,3.24,2.74,2.29,away
+Fotbal,2.srbská liga,2024-11-30,Indjija,Javor_Ivanjica,1.0,2.0,3.16,2.51,2.53,away
+Fotbal,2.srbská liga,2024-11-30,Sloboda_Užice,Vozdovac_Beograd,0.0,1.0,2.99,2.58,2.59,away
+Fotbal,2.srbská liga,2024-12-01,Dubocica_Leskovac,Borac_Cacak,0.0,2.0,2.91,2.67,2.58,away
+Fotbal,2.srbská liga,2024-12-01,Smederevo_1924,Radnik_Surdulica,0.0,2.0,3.34,2.59,2.35,away
+Fotbal,2.srbská liga,2024-12-14,Sloboda_Užice,Javor_Ivanjica,0.0,1.0,3.54,2.45,2.37,away
+Fotbal,2.srbská liga,2025-02-22,Dubocica_Leskovac,Zemun,1.0,5.0,2.88,2.64,2.63,away
+Fotbal,2.srbská liga,2025-02-27,Radnički_Sremska_Mitrovica,Radnik_Surdulica,0.0,3.0,3.23,2.49,2.51,away
+Fotbal,2.srbská liga,2025-03-07,Indjija,Smederevo_1924,1.0,2.0,2.94,2.76,2.47,away
+Fotbal,2.srbská liga,2025-03-30,Zemun,Vozdovac_Beograd,1.0,2.0,3.54,2.69,2.19,away
+Fotbal,2.srbská liga,2025-03-30,Sloboda_Užice,Radnik_Surdulica,0.0,3.0,3.8,2.58,2.17,away

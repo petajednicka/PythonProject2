@@ -1,0 +1,9 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.egyptská liga,2024-12-02,Al_Masry_Port_Said,Pyramids_FC,1,0,3.65,2.79,2.21,home
+Fotbal,1.egyptská liga,2024-12-20,El_Gounah,ENPPI_Cairo,1,0,4.09,2.31,2.44,home
+Fotbal,1.egyptská liga,2024-12-30,Pharco,Smouha,2,1,3.52,2.79,2.26,home
+Fotbal,1.egyptská liga,2025-01-21,Ismaily_SC,Smouha,1,0,3.52,2.62,2.38,home
+Fotbal,1.egyptská liga,2025-01-23,Petrojet_Cairo,Al_Masry_Port_Said,2,1,3.5,2.55,2.44,home
+Fotbal,1.egyptská liga,2025-01-23,Coca_Cola_Cairo,Al_Zamalek,1,0,4.01,2.7,2.15,home
+Fotbal,1.egyptská liga,2025-02-21,ENPPI_Cairo,Smouha,1,0,4.0,2.37,2.41,home
+Fotbal,1.egyptská liga,2025-03-12,Pharco,National_Bank_of_Egypt,2,1,3.5,2.61,2.39,home

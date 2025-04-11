@@ -1,0 +1,16 @@
+PythonProject2/
+├── football_stats/
+│   ├── __init__.py
+│   ├── main.py
+│   └── core/
+│       ├── __init__.py
+│       ├── odds_analysis.py
+│       ├── tip_recommender.py
+│       └── ...
+├── database/
+│   ├── Db_Fotbal_1.anglická liga.csv
+│   └── ...
+├── reports/
+│   └── ...
+├── README.md
+└── ...

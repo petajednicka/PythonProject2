@@ -1,0 +1,9 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.irská liga,2024-10-04,Galway_United,Dundalk_FC,1.0,1.0,1.32,4.65,8.88,draw
+Fotbal,1.irská liga,2024-10-11,Derry_City,Bohemians_Dublin,1.0,1.0,1.61,3.69,5.13,draw
+Fotbal,1.irská liga,2024-10-14,Derry_City,Sligo_Rovers,1.0,1.0,1.33,4.8,8.03,draw
+Fotbal,1.irská liga,2024-10-25,Galway_United,Sligo_Rovers,2.0,2.0,1.51,3.89,5.93,draw
+Fotbal,1.irská liga,2025-02-14,St._Patrick's_Athletic,Drogheda_United,0.0,0.0,1.47,4.04,6.37,draw
+Fotbal,1.irská liga,2025-02-23,Shamrock_Rovers,Cork_City,,,1.55,3.83,5.61,draw
+Fotbal,1.irská liga,2025-04-11,Cork_City,St._Patrick's_Athletic,,,4.95,3.92,1.59,draw
+Fotbal,1.irská liga,2025-04-11,Shamrock_Rovers,Waterford,,,1.44,3.99,7.11,draw

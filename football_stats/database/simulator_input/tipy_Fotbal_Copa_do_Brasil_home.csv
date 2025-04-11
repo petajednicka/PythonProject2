@@ -1,0 +1,7 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,Copa do Brasil,2025-02-20,Porto_Velho,Cuiabá_EC,1.0,0.0,4.56,3.24,1.8,home
+Fotbal,Copa do Brasil,2025-02-21,Rio_Branco_de_Venda_Nova,Amazonas,1.0,0.0,3.9,2.95,2.04,home
+Fotbal,Copa do Brasil,2025-02-21,Olaria,ABC_Natal,1.0,0.0,3.74,2.91,2.11,home
+Fotbal,Copa do Brasil,2025-02-26,Cascavel,América_Mineiro,1.0,0.0,3.9,3.04,1.9,home
+Fotbal,Copa do Brasil,2025-02-27,Concórdia_Atlético,Ponte_Preta,2.0,1.0,4.08,2.98,1.88,home
+Fotbal,Copa do Brasil,2025-02-27,Ceilandia_EC,Coritiba,3.0,2.0,4.7,3.13,1.71,home

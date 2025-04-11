@@ -1,0 +1,5 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.srbská liga,2024-10-18,Čukarički_Bělehrad,Napredak_Krusevac,0.0,0.0,1.32,4.5,7.35,draw
+Fotbal,1.srbská liga,2024-10-19,Jedinstvo_Ub,Vojvodina_Nový_Sad,1.0,1.0,8.3,4.92,1.27,draw
+Fotbal,1.srbská liga,2024-11-09,Vojvodina_Nový_Sad,Mladost_Lučani,0.0,0.0,1.26,4.87,9.18,draw
+Fotbal,1.srbská liga,2024-12-16,Partizan_Bělehrad,Novi_Beograd_IMT,1.0,1.0,1.39,4.35,5.99,draw

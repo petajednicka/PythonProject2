@@ -1,0 +1,8 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.kostarická liga,2024-09-11,Sporting_San_José,Santos_de_Guapiles,1.0,1.0,1.34,4.7,7.88,draw
+Fotbal,1.kostarická liga,2024-09-12,Deportivo_Saprissa,Municipal_Pérez_Zeledón,2.0,2.0,1.3,4.91,8.8,draw
+Fotbal,1.kostarická liga,2024-09-24,San_Carlos_FC,Santos_de_Guapiles,2.0,2.0,1.31,4.91,8.49,draw
+Fotbal,1.kostarická liga,2024-10-17,Alajuelense_LD,Municipal_Liberia,2.0,2.0,1.35,4.72,7.54,draw
+Fotbal,1.kostarická liga,2025-01-27,Alajuelense_LD,Municipal_Pérez_Zeledón,0.0,0.0,1.33,4.59,8.85,draw
+Fotbal,1.kostarická liga,2025-03-16,Deportivo_Saprissa,Municipal_Liberia,1.0,1.0,1.37,4.51,7.49,draw
+Fotbal,1.kostarická liga,2025-04-13,Deportivo_Saprissa,Santa_Ana,,,1.33,4.62,8.7,draw

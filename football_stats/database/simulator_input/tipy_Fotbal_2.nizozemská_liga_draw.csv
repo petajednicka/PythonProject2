@@ -1,0 +1,9 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,2.nizozemská liga,2024-12-08,Emmen,Excelsior,1.0,1.0,2.57,3.28,2.41,draw
+Fotbal,2.nizozemská liga,2025-02-02,Top_Oss,Helmond,1.0,1.0,2.39,3.06,2.77,draw
+Fotbal,2.nizozemská liga,2025-03-03,Utrecht_(Am.),Top_Oss,1.0,1.0,1.94,3.15,3.55,draw
+Fotbal,2.nizozemská liga,2025-03-22,Venlo_VVV,EW_Eindhoven,2.0,2.0,2.53,3.19,2.51,draw
+Fotbal,2.nizozemská liga,2025-03-28,EW_Eindhoven,Helmond,2.0,2.0,2.27,3.26,2.78,draw
+Fotbal,2.nizozemská liga,2025-04-01,Utrecht_(Am.),Venlo_VVV,0.0,0.0,3.43,3.26,1.94,draw
+Fotbal,2.nizozemská liga,2025-04-06,Den_Bosch,EW_Eindhoven,2.0,2.0,2.05,3.25,3.17,draw
+Fotbal,2.nizozemská liga,2025-04-13,Venlo_VVV,Helmond,,,2.46,3.19,2.59,draw

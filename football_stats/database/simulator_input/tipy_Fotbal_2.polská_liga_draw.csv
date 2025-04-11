@@ -1,0 +1,6 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,2.polská liga,2024-11-22,Wisla_Kraków,Stal_Rzeszow,1.0,1.0,1.37,4.47,6.21,draw
+Fotbal,2.polská liga,2024-11-23,Arka_Gdynia,Stal_Stalowa_Wola,,,1.28,4.78,8.55,draw
+Fotbal,2.polská liga,2025-02-22,Nieciecza_LKS,Pogoń_Siedlce,1.0,1.0,1.28,4.74,8.68,draw
+Fotbal,2.polská liga,2025-03-02,Kotwica_Kołobrzeg,Lódz_LKS,0.0,0.0,6.9,4.45,1.34,draw
+Fotbal,2.polská liga,2025-03-09,Polonia_Warszawa,Kotwica_Kołobrzeg,2.0,2.0,1.26,4.96,8.79,draw

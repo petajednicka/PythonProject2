@@ -1,0 +1,12 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,2.čínská liga,2024-09-07,Jiangxi_Liansheng,Liaoning,1.0,1.0,5.01,3.89,1.51,draw
+Fotbal,2.čínská liga,2024-09-08,Yanbian_Longding,Dalian_Zhixing,2.0,2.0,5.03,3.5,1.58,draw
+Fotbal,2.čínská liga,2024-09-15,Guangzhou_Evergrande,Suzhou_Dongwu,1.0,1.0,1.73,3.48,4.03,draw
+Fotbal,2.čínská liga,2024-09-21,Guangxi_Pingguo_Haliao,Shanghai_Jiading,2.0,2.0,1.5,3.48,6.12,draw
+Fotbal,2.čínská liga,2024-09-27,Qingdao_Red_Lions,Guangzhou_Evergrande,1.0,1.0,5.77,4.18,1.42,draw
+Fotbal,2.čínská liga,2024-10-05,Guangzhou_Evergrande,Guangxi_Pingguo_Haliao,1.0,1.0,1.58,3.7,4.71,draw
+Fotbal,2.čínská liga,2024-10-20,Suzhou_Dongwu,Heilongjiang_Lava_Spring,0.0,0.0,1.49,3.72,5.57,draw
+Fotbal,2.čínská liga,2024-11-03,Chongqing_Tongliang_Long,Guangxi_Pingguo_Haliao,1.0,1.0,1.48,3.79,5.57,draw
+Fotbal,2.čínská liga,2025-03-15,Chongqing_Tongliang_Long,Qingdao_Red_Lions,1.0,1.0,1.48,3.62,5.96,draw
+Fotbal,2.čínská liga,2025-04-05,Dingnan_United,Guangdong_GZ-Power,1.0,1.0,4.83,3.51,1.6,draw
+Fotbal,2.čínská liga,2025-04-05,Suzhou_Dongwu,Guangxi_Pingguo_Haliao,0.0,0.0,1.5,3.56,5.89,draw

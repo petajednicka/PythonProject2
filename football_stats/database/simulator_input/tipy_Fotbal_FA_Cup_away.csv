@@ -1,0 +1,9 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,FA Cup,2024-11-02,Tranmere,Oldham,1.0,2.0,2.24,3.16,3.09,away
+Fotbal,FA Cup,2024-11-30,Walsall,Charlton,0.0,4.0,2.37,3.16,2.88,away
+Fotbal,FA Cup,2025-01-11,Middlesbrough,Blackburn,0.0,1.0,2.1,3.29,3.26,away
+Fotbal,FA Cup,2025-02-08,Coventry,Ipswich,1.0,4.0,2.52,3.1,2.74,away
+Fotbal,FA Cup,2025-02-08,Stoke,Cardiff,3.0,4.0,2.14,3.26,3.2,away
+Fotbal,FA Cup,2025-03-02,Newcastle,Brighton,1.0,2.0,2.12,3.58,3.0,away
+Fotbal,FA Cup,2025-03-02,Manchester_United,Fulham,1.0,2.0,2.21,3.26,3.07,away
+Fotbal,FA Cup,2025-03-29,Fulham,Crystal_Palace,0.0,3.0,2.52,3.08,3.08,away

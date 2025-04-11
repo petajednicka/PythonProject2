@@ -1,0 +1,161 @@
+1.anglická liga
+1.belgická liga
+1.italská liga
+1.česká liga
+1.francouzská liga
+1.portugalská liga
+1.řecká liga
+1.skotská liga
+1.německá liga
+1.nizozemská liga
+1.španělská liga
+1.turecká liga
+1.alžírská liga
+1.anglická liga U23
+1.anglická liga W
+1.argentinská liga
+1.arménská liga
+1.australská liga
+1.azerbajdžánská liga
+1.bahrajnská liga
+1.bolívijská liga
+1.bosensko-hercegovinská liga
+1.brazilská liga
+1.bulharská liga
+1.čínská liga
+1.dánská liga
+1.egyptská liga
+1.ekvádorská liga
+1.estonská liga
+1.faerskoostrovní liga
+1.finská liga
+1.gruzínská liga
+1.guatemalská liga
+1.honduraská liga
+1.chilská liga
+1.chorvatská liga
+1.indonéská liga
+1.íránská liga
+1.irská liga
+1.islandská liga
+1.izraelská liga
+1.japonská liga
+1.jihoafrická liga
+1.jihokorejská liga
+1.jordánská liga
+1.katarská liga
+1.kazachstánská liga
+1.kolumbijská liga
+1.kostarická liga
+1.kuvajtská liga
+1.kyperská liga
+1.litevská liga
+1.lotyšská liga
+1.lucemburská liga
+1.maďarská liga
+1.malajská liga
+1.maltská liga
+1.marocká liga
+1.mexická liga
+1.německá liga W
+1.nigerijská liga
+1.nikaragujská liga
+1.norská liga
+1.norská liga W
+1.novozélandská liga
+1.panamská liga
+1.paraguayská liga
+1.peruánská liga
+1.polská liga
+1.rakouská liga
+1.rumunská liga
+1.SAE liga
+1.salvádorská liga
+1.saudskoarabská liga
+1.severoirská liga
+1.singapurská liga
+1.slovenská liga W
+1.slovenská liga
+1.slovinská liga
+1.srbská liga
+1.španělská liga W
+1.švédská liga W
+1.švédská liga
+1.švýcarská liga
+1.thajská liga
+1.tuniská liga
+1.ukrajinská liga
+1.uruguayská liga
+1.uzbecká liga
+1.venezuelská liga
+1.vietnamská liga
+1.waleská liga
+2.anglická liga
+2.argentinská liga
+2.belgická liga
+2.brazilská liga
+2.česká liga
+2.čínská liga
+2.dánská liga
+2.francouzská liga
+2.irská liga
+2.islandská liga
+2.italská liga
+2.izraelská liga
+2.japonská liga
+2.jihokorejská liga
+2.maďarská liga
+2.německá liga
+2.nizozemská liga
+2.norská liga
+2.polská liga
+2.portugalská liga
+2.rakouská liga
+2.rumunská liga
+2.skotská liga
+2.slovenská liga
+2.srbská liga
+2.španělská liga
+2.švédská liga
+2.švýcarská liga
+2.turecká liga
+2.uruguayská liga
+3.anglická liga
+3.argentinská liga
+3.dánská liga
+3.francouzská liga
+3.brazilská liga
+3.italská liga C A
+3.italská liga C B
+3.italská liga C C
+3.německá liga
+3.norská liga - sk.1
+3.norská liga - sk.2
+3.skotská liga
+3.španělská liga gr. I
+3.španělská liga gr. II
+3.švédská liga - jih
+3.švédská liga - sever
+4.anglická liga
+4.německá liga - Bayern
+4.německá liga - Nord
+4.německá liga - Nordost
+4.německá liga - Südwest
+4.německá liga - West
+4.skotská liga
+Anglie - Conference North
+Anglie - Conference South
+Anglie - Conference
+Copa Argentina
+Copa do Brasil
+Copa Costa Rica
+Copa Chile
+Copa Ekvádor
+Česká fotbalová liga
+Divize A
+Divize B
+Divize C
+Divize D
+Divize E
+Divize F
+FA Cup

@@ -1,0 +1,20 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.katarská liga,2024-09-21,Al_Duhail,Al-Sadd,5,1,2.45,3.9,2.38,home
+Fotbal,1.katarská liga,2024-09-21,Umm-Salal,Al-Shahaniya,4,2,1.84,3.59,3.8,home
+Fotbal,1.katarská liga,2024-10-18,Al-Gharrafa,Umm-Salal,3,1,1.8,3.96,3.64,home
+Fotbal,1.katarská liga,2024-10-31,Al-Gharrafa,Al-Arabi_Doha,3,1,1.92,3.85,3.29,home
+Fotbal,1.katarská liga,2024-10-31,Al-Sadd,Al-Rayyan,2,1,2.22,4.01,2.6,home
+Fotbal,1.katarská liga,2024-11-01,Al_Ahli,Al-Shahaniya,2,1,2.02,3.51,3.27,home
+Fotbal,1.katarská liga,2024-11-01,Al-Wakra,Umm-Salal,3,0,1.87,3.71,3.56,home
+Fotbal,1.katarská liga,2024-11-22,Al-Gharrafa,Al-Wakra,3,1,2.29,3.67,2.67,home
+Fotbal,1.katarská liga,2025-01-10,Al-Arabi_Doha,Al-Shahaniya,3,1,2.04,3.68,3.1,home
+Fotbal,1.katarská liga,2025-01-22,Al-Shahaniya,Khor,2,1,2.06,3.59,3.1,home
+Fotbal,1.katarská liga,2025-01-22,Al-Gharrafa,Al_Ahli,2,0,1.8,3.97,3.61,home
+Fotbal,1.katarská liga,2025-01-24,Al-Wakra,Al-Arabi_Doha,4,3,2.39,3.65,2.55,home
+Fotbal,1.katarská liga,2025-02-22,Shamal,Khor,2,0,1.81,3.89,3.63,home
+Fotbal,1.katarská liga,2025-02-22,Al-Sadd,Al_Duhail,2,0,2.48,3.84,2.38,home
+Fotbal,1.katarská liga,2025-02-23,Al-Arabi_Doha,Al_Ahli,4,2,2.24,3.75,2.69,home
+Fotbal,1.katarská liga,2025-02-23,Al-Shahaniya,Umm-Salal,3,2,2.19,3.62,2.84,home
+Fotbal,1.katarská liga,2025-02-27,Al-Rayyan,Al-Arabi_Doha,2,1,1.89,3.95,3.32,home
+Fotbal,1.katarská liga,2025-03-08,Al-Arabi_Doha,Shamal,1,0,2.33,3.82,2.54,home
+Fotbal,1.katarská liga,2025-03-28,Khor,Umm-Salal,3,0,2.59,3.57,2.39,home

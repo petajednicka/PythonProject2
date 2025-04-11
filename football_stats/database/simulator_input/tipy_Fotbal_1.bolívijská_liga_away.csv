@@ -1,0 +1,6 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.bolívijská liga,2024-09-14,Nacional_Potosi,Aurora,1.0,3.0,1.77,3.5,3.82,away
+Fotbal,1.bolívijská liga,2024-10-23,Aurora,Universitario_de_Vinto,1.0,2.0,1.83,3.23,3.89,away
+Fotbal,1.bolívijská liga,2024-10-26,Royal_Pari,Real_Santa_Cruz,0.0,2.0,1.81,3.33,3.84,away
+Fotbal,1.bolívijská liga,2024-12-07,Universitario_de_Vinto,San_Antonio_Bulo_Bulo,0.0,2.0,1.72,3.57,3.96,away
+Fotbal,1.bolívijská liga,2025-04-04,Real_Oruro,Academia_del_Balompie,0.0,1.0,1.76,3.65,3.7,away

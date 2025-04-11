@@ -1,0 +1,16 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.nizozemská liga,2024-09-14,Groningen,Feyenoord,2.0,2.0,4.7,3.94,1.74,draw
+Fotbal,1.nizozemská liga,2024-09-21,Deventer,Ajax_Amsterdam,1.0,1.0,4.26,4.1,1.77,draw
+Fotbal,1.nizozemská liga,2024-09-28,NEC_Nijmegen,Feyenoord,1.0,1.0,5.27,4.26,1.61,draw
+Fotbal,1.nizozemská liga,2024-09-28,Sparta_Rotterdam,Sittard_Fortuna,1.0,1.0,1.64,3.95,5.45,draw
+Fotbal,1.nizozemská liga,2024-10-05,Heerenveen,Zwolle_FC,,,1.68,3.94,4.26,draw
+Fotbal,1.nizozemská liga,2024-10-06,Heerenveen,Zwolle_FC,1.0,1.0,1.85,4.02,3.95,draw
+Fotbal,1.nizozemská liga,2024-10-27,Alkmaar_AZ,Deventer,2.0,2.0,1.71,3.94,4.93,draw
+Fotbal,1.nizozemská liga,2024-11-03,Deventer,Zwolle_FC,2.0,2.0,1.53,4.37,6.08,draw
+Fotbal,1.nizozemská liga,2024-11-23,Heracles,Waalwijk_RKC,2.0,2.0,1.75,3.96,4.58,draw
+Fotbal,1.nizozemská liga,2024-11-29,Heerenveen,Waalwijk_RKC,1.0,1.0,1.63,4.24,5.1,draw
+Fotbal,1.nizozemská liga,2025-01-24,Heracles,Utrecht,1.0,1.0,4.17,3.87,1.84,draw
+Fotbal,1.nizozemská liga,2025-02-15,Breda_NAC,Feyenoord,0.0,0.0,5.83,4.19,1.57,draw
+Fotbal,1.nizozemská liga,2025-02-16,NEC_Nijmegen,Almere_City_FC,2.0,2.0,1.58,4.15,5.83,draw
+Fotbal,1.nizozemská liga,2025-03-15,Sparta_Rotterdam,Zwolle_FC,1.0,1.0,1.7,3.87,5.04,draw
+Fotbal,1.nizozemská liga,2025-04-13,NEC_Nijmegen,Waalwijk_RKC,,,1.67,4.04,4.6,draw

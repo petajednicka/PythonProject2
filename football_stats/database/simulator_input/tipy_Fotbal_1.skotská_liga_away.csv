@@ -1,0 +1,9 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.skotská liga,2024-10-05,Hibernian,Motherwell_FC,1.0,2.0,1.81,3.67,4.19,away
+Fotbal,1.skotská liga,2024-10-26,Dundee_FC,St._Johnstone,1.0,2.0,1.79,3.66,4.33,away
+Fotbal,1.skotská liga,2024-10-30,Hearts_of_Midlothian,Kilmarnock_FC,1.0,2.0,1.8,3.59,4.36,away
+Fotbal,1.skotská liga,2024-12-07,St._Mirren,Motherwell_FC,0.0,1.0,1.86,3.38,4.34,away
+Fotbal,1.skotská liga,2024-12-26,Dundee_FC,Ross_County,0.0,3.0,1.8,3.59,4.37,away
+Fotbal,1.skotská liga,2024-12-29,St._Mirren,Dundee_FC,1.0,2.0,1.91,3.5,3.91,away
+Fotbal,1.skotská liga,2025-02-01,St._Mirren,St._Johnstone,0.0,1.0,1.92,3.28,4.19,away
+Fotbal,1.skotská liga,2025-03-16,Dundee_Utd.,Dundee_FC,2.0,4.0,1.86,3.62,4.02,away

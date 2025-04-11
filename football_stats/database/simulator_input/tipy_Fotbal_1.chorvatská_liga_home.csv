@@ -1,0 +1,6 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.chorvatská liga,2024-11-03,Varteks_Varazdin,Hajduk_Split,1.0,0.0,4.26,3.17,1.87,home
+Fotbal,1.chorvatská liga,2025-02-01,Varteks_Varazdin,HNK_Rijeka,1.0,0.0,3.69,2.84,2.16,home
+Fotbal,1.chorvatská liga,2025-02-02,Lokomotiva_Zagreb,Hajduk_Split,3.0,2.0,3.79,3.24,1.95,home
+Fotbal,1.chorvatská liga,2025-02-02,HNK_Osijek,Dinamo_Zagreb,2.0,1.0,4.2,3.74,1.73,home
+Fotbal,1.chorvatská liga,2025-03-29,Slaven_Belupo,HNK_Rijeka,2.0,1.0,3.89,2.92,2.06,home

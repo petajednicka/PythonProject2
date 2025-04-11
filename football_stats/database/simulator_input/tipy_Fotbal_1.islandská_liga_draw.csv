@@ -1,0 +1,5 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.islandská liga,2024-09-23,Valur_Reykjavík,Stjarnan_Gardabae,2,2,1.51,4.6,4.83,draw
+Fotbal,1.islandská liga,2024-09-25,Akureyri_KA,HK_Kopavogur,3,3,1.37,4.94,6.44,draw
+Fotbal,1.islandská liga,2024-10-06,Vikingur_Reykjavik,Stjarnan_Gardabae,2,2,1.37,4.87,6.71,draw
+Fotbal,1.islandská liga,2024-10-06,Breidablik,Valur_Reykjavík,2,2,1.58,4.43,4.41,draw

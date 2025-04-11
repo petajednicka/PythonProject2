@@ -1,0 +1,5 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.maďarská liga,2024-10-26,Puskas_FC,Diosgyor_VTK,1.0,1.0,1.35,4.49,8.32,draw
+Fotbal,1.maďarská liga,2024-12-14,Nyíregyháza,Ferencváros_Budapešť,,,6.72,4.62,1.39,draw
+Fotbal,1.maďarská liga,2025-02-02,Ferencváros_Budapešť,Budapešť_MTK,0.0,0.0,1.46,4.22,6.11,draw
+Fotbal,1.maďarská liga,2025-03-02,Ferencváros_Budapešť,Raba_Eto_Gyor,2.0,2.0,1.35,4.59,8.07,draw

@@ -1,0 +1,7 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.australská liga,2024-10-25,Macarthur,Newcastle,1.0,2.0,1.63,4.32,4.58,away
+Fotbal,1.australská liga,2024-12-27,Adelaide_United,Western_Sydney,2.0,3.0,1.63,4.57,4.37,away
+Fotbal,1.australská liga,2025-01-20,Macarthur,Wellington_Phoenix,1.0,2.0,1.67,4.06,4.57,away
+Fotbal,1.australská liga,2025-02-15,Adelaide_United,Newcastle,1.0,2.0,1.59,4.71,4.51,away
+Fotbal,1.australská liga,2025-03-14,Adelaide_United,Macarthur,4.0,5.0,1.59,4.45,4.73,away
+Fotbal,1.australská liga,2025-04-06,Newcastle,Wellington_Phoenix,1.0,2.0,1.69,4.17,4.37,away

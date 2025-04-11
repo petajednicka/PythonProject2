@@ -1,0 +1,6 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,2.argentinská liga,2024-09-07,San_Martín_San_Juan,Arsenal_de_Sarandí,0.0,0.0,1.34,4.03,10.9,draw
+Fotbal,2.argentinská liga,2024-10-26,Estudiantes_Río_Cuarto,Atlético_de_Rafaela,0.0,0.0,8.7,3.67,1.43,draw
+Fotbal,2.argentinská liga,2024-10-26,Nueva_Chicago,Brown_de_Adrogué,1.0,1.0,1.5,3.7,6.72,draw
+Fotbal,2.argentinská liga,2024-10-28,Almirante_Brown,Defensores_Unidos,1.0,1.0,1.35,4.24,9.4,draw
+Fotbal,2.argentinská liga,2024-10-27,Almirante_Brown,Defensores_Unidos,1.0,1.0,1.35,4.24,9.4,draw

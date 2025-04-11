@@ -1,0 +1,18 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.norská liga,2024-09-15,Haugar_Haugesund,Stromsgodset,0.0,0.0,2.22,3.63,2.94,draw
+Fotbal,1.norská liga,2024-09-15,Molde_FK,Fredrikstad,,,1.65,3.7,4.77,draw
+Fotbal,1.norská liga,2024-09-15,Sandefjord,Brann_Bergen,2.0,2.0,2.7,3.86,2.3,draw
+Fotbal,1.norská liga,2024-09-15,Viking_Stavanger,KFUM_Oslo,,,1.62,3.93,4.66,draw
+Fotbal,1.norská liga,2024-09-15,Lilleström,Rosenborg_Trondheim,1.0,1.0,2.82,3.62,2.3,draw
+Fotbal,1.norská liga,2024-09-22,Kristiansund_BK,Odd_Grenland,0.0,0.0,2.03,3.66,3.36,draw
+Fotbal,1.norská liga,2024-09-23,KFUM_Oslo,Molde_FK,1.0,1.0,3.95,3.66,1.86,draw
+Fotbal,1.norská liga,2024-09-29,Stromsgodset,Hamar_Kam,1.0,1.0,1.96,3.89,3.39,draw
+Fotbal,1.norská liga,2024-09-29,Haugar_Haugesund,Brann_Bergen,,,3.99,3.82,1.75,draw
+Fotbal,1.norská liga,2024-10-19,Tromsö,Bodo_Glimt,0.0,0.0,3.69,3.76,1.9,draw
+Fotbal,1.norská liga,2024-10-20,KFUM_Oslo,Haugar_Haugesund,0.0,0.0,1.89,3.42,4.15,draw
+Fotbal,1.norská liga,2024-10-20,Kristiansund_BK,Stromsgodset,0.0,0.0,2.36,3.6,2.75,draw
+Fotbal,1.norská liga,2024-11-03,Fredrikstad,Kristiansund_BK,1.0,1.0,1.68,3.69,5.0,draw
+Fotbal,1.norská liga,2024-11-03,Molde_FK,Bodo_Glimt,3.0,3.0,2.52,3.63,2.54,draw
+Fotbal,1.norská liga,2024-11-03,Tromsö,Hamar_Kam,3.0,3.0,1.78,3.59,4.49,draw
+Fotbal,1.norská liga,2024-11-10,Sarpsborg_08,Molde_FK,2.0,2.0,3.6,3.86,1.9,draw
+Fotbal,1.norská liga,2025-04-06,Sarpsborg_08,Valerengen,1.0,1.0,2.25,3.6,2.91,draw

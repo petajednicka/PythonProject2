@@ -1,0 +1,8 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.tuniská liga,2024-09-14,Gafsa_EGS,Esperance_Zarzis,1.0,3.0,2.53,2.53,3.14,away
+Fotbal,1.tuniská liga,2024-11-10,Bizertin_CA,Etoile_de_Sahel,1.0,2.0,3.27,2.27,2.74,away
+Fotbal,1.tuniská liga,2024-11-24,Olympique_Béja,Monastir_US,1.0,3.0,2.97,2.31,2.93,away
+Fotbal,1.tuniská liga,2024-12-26,Sfaxien_Club_Sportif,Stade_Tunis,1.0,2.0,3.18,2.3,2.76,away
+Fotbal,1.tuniská liga,2024-12-28,Tataouine,Slimane,0.0,3.0,2.55,2.59,3.04,away
+Fotbal,1.tuniská liga,2025-02-19,Stade_Tunis,Etoile_de_Sahel,1.0,3.0,2.76,2.32,3.14,away
+Fotbal,1.tuniská liga,2025-02-27,Olympique_Béja,Sfaxien_Club_Sportif,1.0,2.0,3.17,2.3,2.77,away

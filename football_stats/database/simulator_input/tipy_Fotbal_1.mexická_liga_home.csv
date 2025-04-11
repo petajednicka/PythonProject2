@@ -1,0 +1,5 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.mexická liga,2024-09-18,Real_San_Luis,Cruz_Azul,3.0,1.0,4.47,4.01,1.7,home
+Fotbal,1.mexická liga,2025-01-19,Juarez_FC,Cruz_Azul,1.0,0.0,4.94,3.97,1.64,home
+Fotbal,1.mexická liga,2025-01-20,G.B._Querétaro,U.N.A.M.,3.0,2.0,4.19,3.26,1.93,home
+Fotbal,1.mexická liga,2025-02-26,Mazatlan,Monterey,1.0,0.0,4.2,3.47,1.86,home

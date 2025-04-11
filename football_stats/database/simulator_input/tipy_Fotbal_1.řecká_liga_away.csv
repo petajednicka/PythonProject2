@@ -1,0 +1,15 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.řecká liga,2024-09-14,Asteras_Tripolis,Atromitos_Athinon_FC,1.0,2.0,2.49,2.87,2.98,away
+Fotbal,1.řecká liga,2024-09-15,Asteras_Tripolis,Atromitos_Athinon_FC,1.0,2.0,2.49,2.87,2.98,away
+Fotbal,1.řecká liga,2024-09-30,Lamia,Panserraikos,1.0,2.0,2.59,2.87,2.86,away
+Fotbal,1.řecká liga,2024-10-06,Panserraikos,OFI_Crete,2.0,3.0,2.47,2.95,2.93,away
+Fotbal,1.řecká liga,2024-10-06,Kallithea,Asteras_Tripolis,1.0,3.0,2.49,2.97,2.88,away
+Fotbal,1.řecká liga,2024-10-26,Panetolikos,Volos_NFC,0.0,1.0,2.59,2.8,2.94,away
+Fotbal,1.řecká liga,2024-10-27,Kallithea,Atromitos_Athinon_FC,0.0,3.0,2.97,3.05,2.37,away
+Fotbal,1.řecká liga,2025-01-24,Volos_NFC,Atromitos_Athinon_FC,0.0,1.0,2.91,2.55,2.87,away
+Fotbal,1.řecká liga,2025-02-02,PAOK_Saloniki,Athens_AEK,1.0,2.0,2.6,2.92,2.79,away
+Fotbal,1.řecká liga,2025-02-10,Lamia,Levad_Levadia,0.0,2.0,3.3,2.72,2.41,away
+Fotbal,1.řecká liga,2025-02-22,Kallithea,OFI_Crete,1.0,3.0,2.36,3.1,2.95,away
+Fotbal,1.řecká liga,2025-02-22,Volos_NFC,Levad_Levadia,1.0,2.0,2.6,2.74,2.98,away
+Fotbal,1.řecká liga,2025-03-02,Athens_AEK,Olympiakos_Piraeus,0.0,1.0,2.82,2.74,2.74,away
+Fotbal,1.řecká liga,2025-03-29,Panetolikos,Levad_Levadia,1.0,2.0,2.8,2.66,2.84,away

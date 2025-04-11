@@ -1,0 +1,19 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.panamská liga,2024-09-21,UMECIT,Plaza_Amador,0.0,1.0,2.98,2.57,2.61,away
+Fotbal,1.panamská liga,2024-09-22,Union_Deportivo_Universitario,Sporting_San_Miguelito,0.0,2.0,2.87,2.67,2.62,away
+Fotbal,1.panamská liga,2024-09-29,Veraguas,Alianza_FC,0.0,2.0,2.81,3.06,2.35,away
+Fotbal,1.panamská liga,2024-10-06,Herrera,Union_Deportivo_Universitario,0.0,1.0,2.47,2.82,2.88,away
+Fotbal,1.panamská liga,2024-10-20,Union_Deportivo_Universitario,UMECIT,0.0,1.0,2.54,2.7,2.92,away
+Fotbal,1.panamská liga,2024-10-27,Alianza_FC,Tauro_FC,0.0,1.0,2.87,2.72,2.56,away
+Fotbal,1.panamská liga,2024-11-01,Herrera,Independiente_de_La_Chorrera,1.0,2.0,2.93,2.82,2.43,away
+Fotbal,1.panamská liga,2024-11-02,Alianza_FC,Sporting_San_Miguelito,0.0,1.0,3.11,2.53,2.55,away
+Fotbal,1.panamská liga,2024-11-17,Árabe_Unido,Plaza_Amador,1.0,2.0,3.39,2.4,2.5,away
+Fotbal,1.panamská liga,2025-02-16,Alianza_FC,Plaza_Amador,0.0,2.0,3.1,2.79,2.34,away
+Fotbal,1.panamská liga,2025-02-21,Alianza_FC,Sporting_San_Miguelito,1.0,2.0,3.2,2.64,2.39,away
+Fotbal,1.panamská liga,2025-02-26,San_Francisco_de_La_Chorrera,Plaza_Amador,0.0,1.0,2.94,2.53,2.69,away
+Fotbal,1.panamská liga,2025-03-11,Costa_del_Este,San_Francisco_de_La_Chorrera,0.0,1.0,2.9,2.66,2.6,away
+Fotbal,1.panamská liga,2025-03-16,Herrera,Costa_del_Este,0.0,1.0,2.35,2.9,2.96,away
+Fotbal,1.panamská liga,2025-03-17,Veraguas,Árabe_Unido,0.0,2.0,2.74,2.62,2.8,away
+Fotbal,1.panamská liga,2025-03-18,Alianza_FC,Union_Deportivo_Universitario,0.0,1.0,2.85,2.66,2.64,away
+Fotbal,1.panamská liga,2025-03-30,Árabe_Unido,Independiente_de_La_Chorrera,0.0,1.0,2.7,2.66,2.8,away
+Fotbal,1.panamská liga,2025-04-01,Costa_del_Este,Union_Deportivo_Universitario,1.0,3.0,3.22,2.68,2.35,away

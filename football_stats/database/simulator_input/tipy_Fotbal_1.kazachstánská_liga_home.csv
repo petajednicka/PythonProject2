@@ -1,0 +1,14 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.kazachstánská liga,2024-09-15,Yelimay_Semey,Tobol_Kostanay,2.0,1.0,1.83,3.15,4.01,home
+Fotbal,1.kazachstánská liga,2024-09-15,Ordabasy_Shymkent,Atyrau,1.0,0.0,1.68,3.22,4.72,home
+Fotbal,1.kazachstánská liga,2024-09-21,Atyrau,Zhenys,2.0,1.0,1.8,3.06,4.29,home
+Fotbal,1.kazachstánská liga,2024-09-22,Tobol_Kostanay,Aktobe_FC,3.0,0.0,2.12,2.94,3.32,home
+Fotbal,1.kazachstánská liga,2024-10-19,Zhenys,Žetisu_Taldy-Kurgan,1.0,0.0,2.07,2.83,3.63,home
+Fotbal,1.kazachstánská liga,2024-10-20,Kaisar_Kzyl-Orda,Šachťor_Karaganda,5.0,1.0,1.58,3.45,5.11,home
+Fotbal,1.kazachstánská liga,2024-11-02,Kyzyl-Zhar,Kaisar_Kzyl-Orda,6.0,2.0,1.65,3.23,4.95,home
+Fotbal,1.kazachstánská liga,2024-11-02,Kairat_Almaty,Ordabasy_Shymkent,2.0,1.0,1.76,3.22,4.28,home
+Fotbal,1.kazachstánská liga,2024-11-10,Ordabasy_Shymkent,Yelimay_Semey,2.0,1.0,1.74,3.38,4.12,home
+Fotbal,1.kazachstánská liga,2025-03-02,Turan_Turkistan,Oqjetpes_Kokshetau,2.0,0.0,1.99,3.23,3.31,home
+Fotbal,1.kazachstánská liga,2025-03-08,Kairat_Almaty,Ordabasy_Shymkent,4.0,0.0,2.04,2.93,3.56,home
+Fotbal,1.kazachstánská liga,2025-03-09,Aktobe_FC,Turan_Turkistan,2.0,1.0,1.65,3.58,4.37,home
+Fotbal,1.kazachstánská liga,2025-03-09,Yelimay_Semey,Kaisar_Kzyl-Orda,2.0,0.0,1.61,3.32,5.06,home

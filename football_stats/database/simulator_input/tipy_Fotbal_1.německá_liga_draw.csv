@@ -1,0 +1,12 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.německá liga,2024-09-14,Leipzig,Berlin_Union,0.0,0.0,1.46,4.99,6.8,draw
+Fotbal,1.německá liga,2024-09-28,Bayern_München,Leverkusen,1.0,1.0,1.66,4.77,4.6,draw
+Fotbal,1.německá liga,2024-10-06,Frankfurt_Eintracht,Bayern_München,3.0,3.0,5.77,4.89,1.53,draw
+Fotbal,1.německá liga,2024-11-01,Leverkusen,Stuttgart,0.0,0.0,1.61,4.69,5.08,draw
+Fotbal,1.německá liga,2024-11-09,Leipzig,Mönchengladbach,0.0,0.0,1.63,4.51,5.08,draw
+Fotbal,1.německá liga,2024-12-07,Frankfurt_Eintracht,Augsburg_FC,2.0,2.0,1.53,4.5,6.3,draw
+Fotbal,1.německá liga,2025-01-25,Dortmund,Bremen,2.0,2.0,1.5,4.96,6.09,draw
+Fotbal,1.německá liga,2025-01-25,Wolfsburg,Holstein_Kiel,,,1.46,4.69,6.08,draw
+Fotbal,1.německá liga,2025-02-22,Wolfsburg,Bochum,1.0,1.0,1.62,4.43,5.28,draw
+Fotbal,1.německá liga,2025-03-08,Holstein_Kiel,Stuttgart,2.0,2.0,5.78,4.95,1.52,draw
+Fotbal,1.německá liga,2025-04-13,Stuttgart,Bremen,,,1.66,4.55,4.54,draw

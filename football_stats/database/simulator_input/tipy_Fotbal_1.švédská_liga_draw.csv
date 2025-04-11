@@ -1,0 +1,5 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.švédská liga,2024-09-15,Häcken_BK,IFK_Göteborg,3.0,3.0,1.69,4.25,4.27,draw
+Fotbal,1.švédská liga,2024-09-16,Hammarby,Norrkoping,1.0,1.0,1.5,4.48,5.66,draw
+Fotbal,1.švédská liga,2024-10-06,Djurgarden_IF,Kalmar_FF,1.0,1.0,1.47,4.34,6.44,draw
+Fotbal,1.švédská liga,2024-10-06,Malmö_FF,Värnamo_IFK,1.0,1.0,1.39,4.72,7.66,draw

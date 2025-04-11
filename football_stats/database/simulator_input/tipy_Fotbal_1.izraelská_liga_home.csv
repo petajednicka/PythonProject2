@@ -1,0 +1,6 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.izraelská liga,2024-10-22,Beitar_Jerusalem,Maccabi_Haifa,3.0,2.0,3.96,3.83,1.75,home
+Fotbal,1.izraelská liga,2024-10-28,Beitar_Jerusalem,Maccabi_Tel_Aviv,3.0,1.0,3.94,3.65,1.8,home
+Fotbal,1.izraelská liga,2024-11-05,Bnei_Sakhnin,Beitar_Jerusalem,2.0,1.0,4.4,3.93,1.66,home
+Fotbal,1.izraelská liga,2025-02-01,Maccabi_Bnei_Raina,Hapoel_Beer_Sheva,1.0,0.0,4.65,3.57,1.7,home
+Fotbal,1.izraelská liga,2025-02-15,Hapoel_Haifa,Beitar_Jerusalem,3.0,2.0,3.85,3.66,1.81,home

@@ -1,0 +1,7 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,2.dánská liga,2024-09-13,Roskilde_FC_1906,Hvidovre_Kobenhavn,2.0,0.0,3.93,3.68,1.7,home
+Fotbal,2.dánská liga,2024-09-21,B_93,Horsens,1.0,0.0,4.51,3.93,1.57,home
+Fotbal,2.dánská liga,2024-10-18,Koge_HB,Hobro,4.0,1.0,4.03,3.91,1.65,home
+Fotbal,2.dánská liga,2024-10-25,Hillerod,Horsens,2.0,0.0,3.82,3.69,1.72,home
+Fotbal,2.dánská liga,2024-11-10,Koge_HB,Hvidovre_Kobenhavn,1.0,0.0,4.69,4.03,1.53,home
+Fotbal,2.dánská liga,2025-02-21,B_93,Hvidovre_Kobenhavn,4.0,2.0,4.67,3.69,1.58,home

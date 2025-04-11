@@ -1,0 +1,12 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,3.německá liga,2024-09-14,Saarbrücken,Unterhaching,1.0,1.0,1.49,4.14,5.7,draw
+Fotbal,3.německá liga,2024-09-21,Ingolstadt,Essen,2.0,2.0,1.67,4.04,4.21,draw
+Fotbal,3.německá liga,2024-09-29,Dresden,Aachen,0.0,0.0,1.41,4.42,6.72,draw
+Fotbal,3.německá liga,2024-10-20,Dresden,Essen,3.0,3.0,1.59,4.06,4.79,draw
+Fotbal,3.německá liga,2024-11-09,Cottbus,Dortmund_(Am.),3.0,3.0,1.75,4.02,3.77,draw
+Fotbal,3.německá liga,2024-12-14,Bielefeld,Unterhaching,3.0,3.0,1.4,4.44,7.02,draw
+Fotbal,3.německá liga,2025-03-11,Cottbus,Hannover_96_(Am.),2.0,2.0,1.45,4.5,5.76,draw
+Fotbal,3.německá liga,2025-03-12,Dresden,Dortmund_(Am.),0.0,0.0,1.45,4.44,5.9,draw
+Fotbal,3.německá liga,2025-03-29,Bielefeld,Hannover_96_(Am.),2.0,2.0,1.4,4.53,6.55,draw
+Fotbal,3.německá liga,2025-04-05,Hannover_96_(Am.),Dresden,,,4.42,4.17,1.62,draw
+Fotbal,3.německá liga,2025-04-08,Waldhof_Mannheim,Unterhaching,,,1.48,4.13,5.9,draw

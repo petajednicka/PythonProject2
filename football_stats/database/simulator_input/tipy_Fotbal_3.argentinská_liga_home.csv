@@ -1,0 +1,8 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,3.argentinská liga,2024-09-14,Deportivo_Merlo,Excursionistas,2.0,1.0,3.39,2.68,2.27,home
+Fotbal,3.argentinská liga,2024-09-21,Dock_Sud,Argentino_Quilmes,1.0,0.0,3.53,2.6,2.25,home
+Fotbal,3.argentinská liga,2024-12-07,Los_Andes,Argentino_Quilmes,1.0,0.0,3.75,2.34,2.38,home
+Fotbal,3.argentinská liga,2025-02-15,Ferrocarril_Midland,Argentino_Quilmes,2.0,0.0,3.33,2.31,2.64,home
+Fotbal,3.argentinská liga,2025-02-25,San_Martín_Burzaco,Comunicaciones,1.0,0.0,3.48,2.59,2.29,home
+Fotbal,3.argentinská liga,2025-03-16,Liniers,Comunicaciones,2.0,0.0,3.31,2.56,2.39,home
+Fotbal,3.argentinská liga,2025-04-06,San_Martín_Burzaco,Argentino_Quilmes,2.0,0.0,3.36,2.63,2.31,home

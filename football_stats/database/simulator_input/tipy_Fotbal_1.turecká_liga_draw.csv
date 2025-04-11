@@ -1,0 +1,19 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.turecká liga,2024-09-19,Trabzonspor,Kayserispor_II,2.0,2.0,1.55,3.98,5.32,draw
+Fotbal,1.turecká liga,2024-09-22,Kasimpasa_SK_Istanbul,Antalyaspor,0.0,0.0,1.8,3.75,3.79,draw
+Fotbal,1.turecká liga,2024-10-05,Istanbul_Büyüksehir,Kayserispor_II,1.0,1.0,1.69,3.75,4.44,draw
+Fotbal,1.turecká liga,2024-10-06,Gaziantepspor_BB,Besiktas,1.0,1.0,4.02,3.68,1.77,draw
+Fotbal,1.turecká liga,2024-10-27,Galatasaray,Besiktas,,,1.76,3.89,3.88,draw
+Fotbal,1.turecká liga,2024-12-20,Eyüp_SK_Istanbul,Fenerbahce,1.0,1.0,5.18,4.22,1.53,draw
+Fotbal,1.turecká liga,2024-12-21,Besiktas,Alanyaspor_K,1.0,1.0,1.71,3.7,4.39,draw
+Fotbal,1.turecká liga,2025-01-04,Demirspor,Istanbul_Büyüksehir,,,4.2,3.72,1.73,draw
+Fotbal,1.turecká liga,2025-01-05,Kasimpasa_SK_Istanbul,Gaziantepspor_BB,2.0,2.0,1.62,3.95,4.7,draw
+Fotbal,1.turecká liga,2025-01-18,Besiktas,Samsunspor,0.0,0.0,1.81,3.68,3.85,draw
+Fotbal,1.turecká liga,2025-01-26,Antalyaspor,Besiktas,1.0,1.0,3.66,3.72,1.84,draw
+Fotbal,1.turecká liga,2025-02-14,Demirspor,Antalyaspor,1.0,1.0,4.64,4.02,1.61,draw
+Fotbal,1.turecká liga,2025-03-01,Demirspor,Bodrumspor,0.0,0.0,5.11,3.81,1.59,draw
+Fotbal,1.turecká liga,2025-03-02,Kasimpasa_SK_Istanbul,Galatasaray,3.0,3.0,4.52,4.19,1.6,draw
+Fotbal,1.turecká liga,2025-04-07,Göztepe,Gaziantepspor_BB,1.0,1.0,1.5,4.06,5.73,draw
+Fotbal,1.turecká liga,2025-04-07,Kasimpasa_SK_Istanbul,Besiktas,1.0,1.0,3.25,3.72,1.97,draw
+Fotbal,1.turecká liga,2025-04-11,Samsunspor,Galatasaray,,,4.67,3.9,1.63,draw
+Fotbal,1.turecká liga,2025-04-13,Trabzonspor,Caykur_Rizespor,,,1.74,3.74,4.13,draw

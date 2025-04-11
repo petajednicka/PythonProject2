@@ -1,0 +1,10 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,2.izraelská liga,2024-11-01,Maccabi_Herzlia,Kfar_Kasem,1.0,0.0,3.71,2.98,1.97,home
+Fotbal,2.izraelská liga,2024-11-11,Hapoel_Kfar_Shalem,Bnei_Yehuda,2.0,1.0,3.76,3.05,1.93,home
+Fotbal,2.izraelská liga,2025-01-10,Maccabi_Herzlia,Bnei_Yehuda,3.0,2.0,3.79,3.38,1.81,home
+Fotbal,2.izraelská liga,2025-01-20,Ironi_Nir_Ramat_HaSharon,Kfar_Kasem,1.0,0.0,3.51,3.54,1.83,home
+Fotbal,2.izraelská liga,2025-02-14,Maccabi_Herzlia,Hapoel_Kfar_Shalem,2.0,1.0,3.68,3.45,1.81,home
+Fotbal,2.izraelská liga,2025-02-21,Kfar_Kasem,Hapoel_Ramat-Gan,1.0,0.0,3.38,3.02,2.06,home
+Fotbal,2.izraelská liga,2025-02-24,Hapoel_Um_El_Fachem,Maccabi_Herzlia,2.0,1.0,3.6,3.21,1.91,home
+Fotbal,2.izraelská liga,2025-03-17,Hapoel_Kfar_Sava,Kfar_Kasem,1.0,0.0,3.33,2.64,2.32,home
+Fotbal,2.izraelská liga,2025-03-28,Hapoel_Afula,Kfar_Kasem,2.0,0.0,3.51,3.22,1.93,home

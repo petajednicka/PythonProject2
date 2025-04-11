@@ -1,0 +1,6 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.rakouská liga,2024-09-22,Sturm_Graz,Wolfsberger_AC,0.0,3.0,1.7,4.13,4.32,away
+Fotbal,1.rakouská liga,2024-09-29,Wolfsberger_AC,Wattens,1.0,3.0,1.65,4.06,4.74,away
+Fotbal,1.rakouská liga,2024-11-23,Salzburg_RB,LASK_Linz,1.0,2.0,1.75,3.89,4.24,away
+Fotbal,1.rakouská liga,2025-02-08,Rapid_Wien,Wolfsberger_AC,1.0,3.0,1.74,3.76,4.5,away
+Fotbal,1.rakouská liga,2025-02-15,Blau-Weiss_Linz,Rheindorf_Altach_SC,1.0,3.0,1.97,3.08,4.31,away

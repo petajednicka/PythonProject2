@@ -1,0 +1,5 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.bahrajnská liga,2024-10-26,Al-Najma,Al-Muharraq,0.0,0.0,5.01,4.31,1.53,draw
+Fotbal,1.bahrajnská liga,2024-12-15,East_Riffa,Al_Riffa,0.0,0.0,6.01,4.25,1.46,draw
+Fotbal,1.bahrajnská liga,2025-01-12,Al_Riffa,Sitra,,,1.46,4.1,6.4,draw
+Fotbal,1.bahrajnská liga,2025-03-29,Al_Ahli_Manama,Khalidiya,1.0,1.0,5.6,4.13,1.5,draw

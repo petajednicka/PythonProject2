@@ -1,0 +1,13 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,3.italská liga C C,2024-09-20,Messina,Casertana,2.0,2.0,2.61,2.65,2.9,draw
+Fotbal,3.italská liga C C,2024-09-28,Taranto,Sorrento,2.0,2.0,3.17,2.69,2.37,draw
+Fotbal,3.italská liga C C,2024-10-27,Taranto,Turris_Neapolis,0.0,0.0,2.98,2.56,2.62,draw
+Fotbal,3.italská liga C C,2024-10-31,Casertana,Altamura,1.0,1.0,2.6,2.48,3.12,draw
+Fotbal,3.italská liga C C,2024-11-04,Monopoli,Picerno,1.0,1.0,2.21,2.62,3.6,draw
+Fotbal,3.italská liga C C,2024-11-09,Casertana,Monopoli,0.0,0.0,3.0,2.64,2.53,draw
+Fotbal,3.italská liga C C,2024-11-16,Sorrento,Picerno,1.0,1.0,2.52,2.64,3.01,draw
+Fotbal,3.italská liga C C,2024-11-18,Monopoli,Audace_Cerignola,1.0,1.0,2.73,2.56,2.87,draw
+Fotbal,3.italská liga C C,2024-12-02,Monopoli,Avellino,1.0,1.0,3.07,2.68,2.44,draw
+Fotbal,3.italská liga C C,2025-01-19,Picerno,Catania_Calcio,1.0,1.0,2.8,2.69,2.67,draw
+Fotbal,3.italská liga C C,2025-02-15,Cavese,Picerno,1.0,1.0,2.53,2.68,2.96,draw
+Fotbal,3.italská liga C C,2025-03-16,Picerno,Monopoli,2.0,2.0,2.92,2.6,2.63,draw

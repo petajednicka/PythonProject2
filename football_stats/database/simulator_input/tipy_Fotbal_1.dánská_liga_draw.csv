@@ -1,0 +1,6 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.dánská liga,2024-10-20,Nordsjalland_FC,Silkeborg_IF,1.0,1.0,1.42,4.87,6.41,draw
+Fotbal,1.dánská liga,2024-11-04,FC_Kobenhavn,Silkeborg_IF,2.0,2.0,1.44,4.62,6.5,draw
+Fotbal,1.dánská liga,2024-11-24,Sonderjyll,Bröndby_Kobenhavn,2.0,2.0,5.21,4.36,1.55,draw
+Fotbal,1.dánská liga,2025-02-23,Vejle_BK,Bröndby_Kobenhavn,2.0,2.0,5.3,4.4,1.54,draw
+Fotbal,1.dánská liga,2025-03-02,Aalborg_BK,FC_Kobenhavn,0.0,0.0,7.1,4.74,1.4,draw

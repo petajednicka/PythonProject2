@@ -1,0 +1,10 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.česká liga,2024-09-15,Jablonec,České_Budějovice,,,1.4,4.95,7.74,draw
+Fotbal,1.česká liga,2024-09-22,Mladá_Boleslav,Pardubice_FK,2.0,2.0,1.46,4.68,6.91,draw
+Fotbal,1.česká liga,2024-09-29,Plzeň_Viktoria,Mladá_Boleslav,1.0,1.0,1.48,4.79,6.28,draw
+Fotbal,1.česká liga,2024-11-03,Hradec_Králové,Slavia_Praha,1.0,1.0,7.97,4.62,1.42,draw
+Fotbal,1.česká liga,2024-11-30,Dukla_Praha_FK,Sparta_Praha,1.0,1.0,6.86,4.46,1.48,draw
+Fotbal,1.česká liga,2024-12-05,Plzeň_Viktoria,Teplice,1.0,1.0,1.36,4.99,8.98,draw
+Fotbal,1.česká liga,2025-03-02,Liberec,Dukla_Praha_FK,1.0,1.0,1.46,4.47,7.4,draw
+Fotbal,1.česká liga,2025-03-09,Pardubice_FK,Plzeň_Viktoria,0.0,0.0,9.2,4.92,1.36,draw
+Fotbal,1.česká liga,2025-04-12,Karviná_FC,Slavia_Praha,,,7.6,4.9,1.41,draw

@@ -1,0 +1,19 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.belgická liga,2024-09-14,Anderlecht,Westerlo,2.0,2.0,1.73,4.1,4.53,draw
+Fotbal,1.belgická liga,2024-09-27,Charleroi,Club_Brugge,1.0,1.0,3.88,3.92,1.88,draw
+Fotbal,1.belgická liga,2024-10-19,Union_St-Gilloise,Gent,0.0,0.0,1.54,4.14,6.46,draw
+Fotbal,1.belgická liga,2024-11-03,Beerschot,Gent,0.0,0.0,5.2,4.22,1.63,draw
+Fotbal,1.belgická liga,2024-11-22,Antwerp,Dender_FC,1.0,1.0,1.54,4.28,6.14,draw
+Fotbal,1.belgická liga,2024-12-01,Sint_Truidense,Genk,2.0,2.0,3.48,3.94,1.99,draw
+Fotbal,1.belgická liga,2024-12-26,Mechelen,Standard_Liege,0.0,0.0,1.64,4.02,5.32,draw
+Fotbal,1.belgická liga,2025-02-15,Sint_Truidense,Club_Brugge,2.0,2.0,4.93,4.3,1.65,draw
+Fotbal,1.belgická liga,2025-02-21,Mechelen,Sint_Truidense,1.0,1.0,1.85,3.92,4.05,draw
+Fotbal,1.belgická liga,2025-02-22,Dender_FC,Beerschot,0.0,0.0,1.77,3.9,4.5,draw
+Fotbal,1.belgická liga,2025-02-22,Antwerp,Oud_Heverlee,2.0,2.0,1.71,3.94,4.91,draw
+Fotbal,1.belgická liga,2025-02-23,Genk,Gent,0.0,0.0,1.56,4.38,5.66,draw
+Fotbal,1.belgická liga,2025-03-02,Gent,Club_Brugge,,,4.1,3.9,1.78,draw
+Fotbal,1.belgická liga,2025-03-01,Gent,Club_Brugge,1.0,1.0,3.73,3.89,1.93,draw
+Fotbal,1.belgická liga,2025-04-05,Westerlo,Oud_Heverlee,2.0,2.0,1.81,3.95,4.22,draw
+Fotbal,1.belgická liga,2025-04-12,Kortrijk,Beerschot,,,1.58,4.11,5.35,draw
+Fotbal,1.belgická liga,2025-04-12,Union_St-Gilloise,Anderlecht,,,1.61,4.0,5.16,draw
+Fotbal,1.belgická liga,2025-04-13,Club_Brugge,Genk,,,1.76,3.94,4.16,draw

@@ -1,0 +1,5 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away,result
+Fotbal,1.uruguayská liga,2024-09-22,Nacional,Defensor_Sporting,1.0,1.0,1.48,3.93,6.44,draw
+Fotbal,1.uruguayská liga,2024-11-28,Danubio,Nacional,0.0,0.0,8.48,4.25,1.37,draw
+Fotbal,1.uruguayská liga,2025-02-24,River_Plate_(URU),Peňarol,1.0,1.0,6.89,4.05,1.44,draw
+Fotbal,1.uruguayská liga,2025-03-22,Nacional,Plaza_Colonia,1.0,1.0,1.4,4.15,7.76,draw

@@ -1,0 +1,24 @@
+sport,league,date,home_team,away_team,home_score,away_score,odds_home,odds_draw,odds_away
+Fotbal,3.brazilská liga,2024-09-03,Londrina,Athletic_Club,2,3,2.8,2.64,2.71
+Fotbal,3.brazilská liga,2024-09-07,Athletic_Club,Ypiranga,0,0,1.38,4.01,7.02
+Fotbal,3.brazilská liga,2024-09-08,Ferroviário,Londrina,3,2,1.72,2.99,4.92
+Fotbal,3.brazilská liga,2024-09-08,Botafogo_Joao_Pessoa,Volta_Redonda,0,0,1.84,3.1,4.05
+Fotbal,3.brazilská liga,2024-09-10,Sao_Bernardo,Remo,2,2,1.68,3.09,4.99
+Fotbal,3.brazilská liga,2024-09-14,Sao_Bernardo,Botafogo_Joao_Pessoa,1,0,1.6,3.28,5.28
+Fotbal,3.brazilská liga,2024-09-15,Remo,Volta_Redonda,0,0,1.66,3.36,4.62
+Fotbal,3.brazilská liga,2024-09-14,Londrina,Ypiranga,2,2,1.85,2.95,4.29
+Fotbal,3.brazilská liga,2024-09-17,Ferroviário,Athletic_Club,3,2,2.47,2.65,3.06
+Fotbal,3.brazilská liga,2024-09-21,Volta_Redonda,Remo,1,1,1.92,3.03,3.79
+Fotbal,3.brazilská liga,2024-09-22,Botafogo_Joao_Pessoa,Sao_Bernardo,0,0,2.08,2.82,3.63
+Fotbal,3.brazilská liga,2024-09-22,Ypiranga,Londrina,0,1,1.96,2.9,3.86
+Fotbal,3.brazilská liga,2024-09-24,Athletic_Club,Ferroviário,3,0,2.01,2.81,3.89
+Fotbal,3.brazilská liga,2024-09-28,Volta_Redonda,Botafogo_Joao_Pessoa,2,1,1.92,3.0,3.86
+Fotbal,3.brazilská liga,2024-09-29,Ypiranga,Athletic_Club,2,1,2.97,2.8,2.42
+Fotbal,3.brazilská liga,2024-09-29,Remo,Sao_Bernardo,1,0,1.96,2.82,4.04
+Fotbal,3.brazilská liga,2024-09-29,Londrina,Ferroviário,3,2,2.43,2.72,3.05
+Fotbal,3.brazilská liga,2024-10-05,Botafogo_Joao_Pessoa,Remo,3,0,2.54,2.75,2.88
+Fotbal,3.brazilská liga,2024-10-05,Sao_Bernardo,Volta_Redonda,1,2,2.43,2.85,2.9
+Fotbal,3.brazilská liga,2024-10-05,Athletic_Club,Londrina,2,1,1.65,3.42,4.57
+Fotbal,3.brazilská liga,2024-10-05,Ferroviário,Ypiranga,4,2,1.74,3.09,4.59
+Fotbal,3.brazilská liga,2024-10-12,Volta_Redonda,Athletic_Club,1,0,2.48,2.68,3.03
+Fotbal,3.brazilská liga,2024-10-19,Athletic_Club,Volta_Redonda,0,2,1.56,3.43,5.38
